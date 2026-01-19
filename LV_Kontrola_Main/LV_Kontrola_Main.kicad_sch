@@ -2,8 +2,15 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid b33d6979-93a0-4110-9c2c-0d6314502d31)
+	(uuid "b33d6979-93a0-4110-9c2c-0d6314502d31")
 	(paper "A4")
+	(title_block
+		(title "LV_Kontrola_Main")
+		(rev "1.00A")
+		(company "\"Black Hornets\" Formula Student team")
+		(comment 1 "Authors: Dusan Novkovic; Nikola Popovic")
+		(comment 2 "Subteam: Low Voltage team")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"
