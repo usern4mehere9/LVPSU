@@ -1,0 +1,9 @@
+Manufacturer=FINDER
+PartNumber=41.52.9.005.0010
+PartCategory=Relay or Contactor
+PackageCategory=Other
+PinCount=8
+Version=1.4
+Released=2022-05-07 03:23:36
+Downloaded=2026-01-20 08:52:17
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '41.52.9.005.0010'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "TME_ELECTRONIC_COMPONENTS_PART_NUMBER", "TME_ELECTRONIC_COMPONENTS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "FINDER", "41.52.9.005.0010" (!) = "", "415290050010", "Other", "", "", "Relay: electromagnetic; DPDT; Ucoil: 5VDC; 8A/250VAC; 8A/30VDC; 15A", "https://cdn.findernet.com/app/uploads/2020/09/13142529/S41EN.pdf", "15.7 mm"
+END_PART
+
+END.

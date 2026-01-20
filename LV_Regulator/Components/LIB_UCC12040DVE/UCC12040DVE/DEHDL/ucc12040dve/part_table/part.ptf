@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'UCC12040DVE'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "UCC12040DVE" (!) = "", "SOIC127P1030X265-16N", "Small Outline Packages", "595-UCC12040DVE", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/UCC12040DVE?qs=xZ%2FP%252Ba9zWqaWnn41WPN4Eg%3D%3D", "Isolated DC/DC Converters 500mW, high efficiency 3kVrms isolated DC-DC converter 16-SO-MOD -40 to 125", "https://www.ti.com/lit/gpn/UCC12040", "2.65 mm"
+END_PART
+
+END.

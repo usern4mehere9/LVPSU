@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 41.52.9.005.0010
+D Relay: electromagnetic; DPDT; Ucoil: 5VDC; 8A/250VAC; 8A/30VDC; 15A
+K
+F https://cdn.findernet.com/app/uploads/2020/09/13142529/S41EN.pdf
+$ENDCMP
+#
+#End Doc Library
