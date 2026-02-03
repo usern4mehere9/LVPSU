@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LIB_41.52.9.005.0010")(type "KiCad")(uri "${KIPRJMOD}/Components/LIB_41.52.9.005.0010")(options "")(descr ""))
+  (lib (name "LIB_UCC12040DVE")(type "KiCad")(uri "${KIPRJMOD}/Components/LIB_UCC12040DVE")(options "")(descr ""))
+  (lib (name "MCP1826T-ADJE_DC")(type "KiCad")(uri "${KIPRJMOD}/Components/MCP1826T-ADJE_DC")(options "")(descr ""))
+  (lib (name "microfit-4pin")(type "KiCad")(uri "${KIPRJMOD}/Components/microfit-4pin")(options "")(descr ""))
+  (lib (name "microfit-8pin")(type "KiCad")(uri "${KIPRJMOD}/Components/microfit-8pin")(options "")(descr ""))
+  (lib (name "ul_BQ25858QWRRVRQ1")(type "KiCad")(uri "${KIPRJMOD}/Components/ul_BQ25858QWRRVRQ1")(options "")(descr ""))
+)

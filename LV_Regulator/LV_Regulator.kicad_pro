@@ -613,6 +613,22 @@
     [
       "9003ce10-3354-47c9-924a-fd038a206791",
       "Root"
+    ],
+    [
+      "91e40ea1-1eda-495a-bc23-83cea8129846",
+      "Isolation"
+    ],
+    [
+      "dc357f06-3995-490a-ad46-0a4b0ad2806e",
+      "Logic_Supply"
+    ],
+    [
+      "7dabe8d0-f22d-4d1e-a460-c5fc9599efb1",
+      "MCU"
+    ],
+    [
+      "7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff",
+      "Regulator"
     ]
   ],
   "text_variables": {}
