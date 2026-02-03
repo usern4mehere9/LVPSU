@@ -1,0 +1,15 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "41dc0030-3b5a-45c9-a234-4358ade11fc6")
+	(paper "A4")
+	(title_block
+		(title "LV_Regulator_Main")
+		(rev "1.00A")
+		(company "\"Black Horntets\" Formula Student team")
+		(comment 1 "Authors: Dusan Novkovic; Nikola Popovic")
+		(comment 2 "Subteam: Low Voltage Team")
+	)
+	(lib_symbols)
+)

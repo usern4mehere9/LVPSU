@@ -4,4 +4,6 @@
   (lib (name "41.52.9.005.0010")(type "KiCad")(uri "${KIPRJMOD}/Components/LIB_41.52.9.005.0010/41.52.9.005.0010/KiCad/41.52.9.005.0010.kicad_sym")(options "")(descr ""))
   (lib (name "2026-01-31_09-39-57")(type "KiCad")(uri "${KIPRJMOD}/Components/ul_BQ25858QWRRVRQ1/KiCADv6/2026-01-31_09-39-57.kicad_sym")(options "")(descr ""))
   (lib (name "MCP1826T-ADJE_DC")(type "KiCad")(uri "${KIPRJMOD}/Components/MCP1826T-ADJE_DC/MCP1826T-ADJE_DC.kicad_sym")(options "")(descr ""))
+  (lib (name "2026-02-03_07-47-36")(type "KiCad")(uri "${KIPRJMOD}/Components/microfit-8pin/KiCADv6/2026-02-03_07-47-36.kicad_sym")(options "")(descr ""))
+  (lib (name "2026-02-03_07-49-24")(type "KiCad")(uri "${KIPRJMOD}/Components/microfit-4pin/KiCADv6/2026-02-03_07-49-24.kicad_sym")(options "")(descr ""))
 )
