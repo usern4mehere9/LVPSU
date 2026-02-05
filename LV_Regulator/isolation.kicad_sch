@@ -5214,7 +5214,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0135e600-ba46-42ed-ba84-32ddf80f827a")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR09"
 			(at 128.27 148.59 0)
 			(effects
 				(font
@@ -5264,7 +5264,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR018")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -5280,7 +5280,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "03532f5c-c433-47aa-8641-fa887cdf850c")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR07"
 			(at 111.76 123.19 0)
 			(effects
 				(font
@@ -5331,7 +5331,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR03")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -5347,7 +5347,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0983c4e8-60d1-4d8b-9eb8-46d0e1b9c76a")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR021"
 			(at 171.45 118.11 0)
 			(effects
 				(font
@@ -5398,7 +5398,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR016")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -5414,7 +5414,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0bcff1e9-4271-425d-82ea-51dee02bdfbb")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR02"
 			(at 52.07 53.34 0)
 			(effects
 				(font
@@ -5465,7 +5465,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR051")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -5480,7 +5480,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "12cdf27a-d755-49d4-9a48-bd2fd1177ae9")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR05"
 			(at 104.14 118.11 0)
 			(effects
 				(font
@@ -5530,7 +5530,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR013")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -5545,7 +5545,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "16a8264d-14eb-493b-bf60-a25978dfda10")
-		(property "Reference" "C3"
+		(property "Reference" "C1"
 			(at 100.33 106.426 0)
 			(effects
 				(font
@@ -5597,7 +5597,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "C3")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -5680,7 +5680,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2429697b-e9e9-48ee-9b6d-780aeaff8fda")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR017"
 			(at 147.32 41.91 0)
 			(effects
 				(font
@@ -5731,7 +5731,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR08")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -5896,7 +5896,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "34a0c38f-3892-490e-a4c2-98f2974facf0")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR014"
 			(at 140.97 73.66 0)
 			(effects
 				(font
@@ -5946,7 +5946,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR09")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -5962,7 +5962,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "360e82e2-14a2-4419-983e-74312a395450")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR03"
 			(at 93.98 44.45 0)
 			(effects
 				(font
@@ -6013,7 +6013,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR07")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -6028,7 +6028,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "397e2b50-bb1d-493d-9378-d37bd3ff80ad")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR012"
 			(at 130.81 73.66 0)
 			(effects
 				(font
@@ -6078,7 +6078,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR05")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -6094,7 +6094,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d4c9bff-5477-49e6-a31b-e07edea07ddc")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR015"
 			(at 154.94 77.47 0)
 			(effects
 				(font
@@ -6145,7 +6145,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR010")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -6161,7 +6161,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "50f80b7a-f314-45b8-84f5-e5c9b3a754e0")
-		(property "Reference" "J2"
+		(property "Reference" "J1"
 			(at 36.83 43.18 0)
 			(effects
 				(font
@@ -6221,7 +6221,7 @@
 		(instances
 			(project ""
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "J2")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -6237,7 +6237,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "559556c9-2eb7-4a05-90d3-ed2748324d81")
-		(property "Reference" "R2"
+		(property "Reference" "R1"
 			(at 102.87 48.2599 0)
 			(effects
 				(font
@@ -6291,7 +6291,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "R2")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -6307,7 +6307,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c39a53b-2f84-452f-9310-a3e96786ab42")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR019"
 			(at 160.02 115.57 0)
 			(effects
 				(font
@@ -6358,7 +6358,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR015")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -6374,7 +6374,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ed004f0-cbb6-4b0d-ab34-2187d5d8695a")
-		(property "Reference" "R3"
+		(property "Reference" "R2"
 			(at 102.87 63.4999 0)
 			(effects
 				(font
@@ -6428,7 +6428,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "R3")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -6444,7 +6444,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "67669951-6aff-4e25-8181-765b059f5c46")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR06"
 			(at 111.76 101.6 0)
 			(effects
 				(font
@@ -6495,7 +6495,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR02")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -6511,7 +6511,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6db454b4-5b9d-47b3-b5c6-ca09db4d1f55")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR022"
 			(at 238.76 41.91 0)
 			(effects
 				(font
@@ -6562,7 +6562,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR055")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -6578,7 +6578,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6e368e21-476e-4398-b54a-b966d1441c1b")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR016"
 			(at 149.86 185.42 0)
 			(effects
 				(font
@@ -6628,7 +6628,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR058")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -6644,7 +6644,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "755e146a-d4c9-4743-9d7b-834c7bc72671")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR08"
 			(at 116.84 77.47 0)
 			(effects
 				(font
@@ -6695,7 +6695,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR04")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -6710,7 +6710,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "78b5844f-9e46-45d7-80f2-5e579e1f7657")
-		(property "Reference" "C1"
+		(property "Reference" "C3"
 			(at 127 71.628 90)
 			(effects
 				(font
@@ -6762,7 +6762,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "C1")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -6777,7 +6777,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8c38a89a-2982-4511-99e1-1218efbec172")
-		(property "Reference" "C4"
+		(property "Reference" "C2"
 			(at 110.49 106.426 0)
 			(effects
 				(font
@@ -6829,7 +6829,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "C4")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -6844,7 +6844,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "927cdbe0-d201-4ee0-91f9-f30ad2fb8044")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR04"
 			(at 100.33 64.77 0)
 			(effects
 				(font
@@ -6894,7 +6894,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR06")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -6910,7 +6910,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "98560b88-a7a2-46e3-a02b-e551b328dbc3")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR023"
 			(at 238.76 49.53 0)
 			(effects
 				(font
@@ -6961,7 +6961,7 @@
 		(instances
 			(project ""
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR054")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -6976,7 +6976,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9f6783db-6746-4e59-be95-419c14b9b7d3")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR01"
 			(at 41.91 50.8 0)
 			(effects
 				(font
@@ -7026,7 +7026,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR052")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -7042,7 +7042,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad6df033-74be-44d3-a21b-d2d68edf5f69")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 36.83 144.78 0)
 			(effects
 				(font
@@ -7114,7 +7114,7 @@
 		(instances
 			(project ""
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -7129,7 +7129,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ae0bdba6-ac9e-4c20-89cc-6c987c7096c7")
-		(property "Reference" "C2"
+		(property "Reference" "C4"
 			(at 144.78 71.628 90)
 			(effects
 				(font
@@ -7181,7 +7181,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "C2")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -7197,7 +7197,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b14388bb-04a4-4277-a43d-59c0fcf78166")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR013"
 			(at 147.32 33.02 0)
 			(effects
 				(font
@@ -7248,7 +7248,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR011")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -7442,7 +7442,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd350c0c-70c4-42de-af7c-868a27ce7de6")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR020"
 			(at 160.02 120.65 0)
 			(effects
 				(font
@@ -7493,7 +7493,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR014")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -7509,7 +7509,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d16dfe41-3f33-4d7e-b21e-95e1af154ddc")
-		(property "Reference" "J4"
+		(property "Reference" "J3"
 			(at 259.08 44.4499 0)
 			(effects
 				(font
@@ -7571,7 +7571,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "J4")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -7587,7 +7587,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2010152-72ff-4220-a3f9-afc35ce28cd3")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR024"
 			(at 246.38 160.02 0)
 			(effects
 				(font
@@ -7637,7 +7637,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR053")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -7815,7 +7815,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e33aa577-4c07-4929-92aa-51c2f17cef08")
-		(property "Reference" "J3"
+		(property "Reference" "J4"
 			(at 260.35 143.5099 0)
 			(effects
 				(font
@@ -7889,7 +7889,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "J3")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -7905,7 +7905,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef918237-655f-4b66-95e1-3a6f3a5e992b")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR011"
 			(at 124.46 33.02 0)
 			(effects
 				(font
@@ -7956,7 +7956,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR01")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -8060,7 +8060,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f6a03fe0-e15d-4fff-b2f2-704e30c4dbfd")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR018"
 			(at 160.02 102.87 0)
 			(effects
 				(font
@@ -8111,7 +8111,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR012")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -8127,7 +8127,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd8daf67-c372-4589-94e1-2e6f7acd40d8")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR010"
 			(at 128.27 187.96 0)
 			(effects
 				(font
@@ -8177,7 +8177,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "#PWR017")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -8193,7 +8193,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff7b794e-cf6c-4499-8803-e19cdeafd840")
-		(property "Reference" "R1"
+		(property "Reference" "R3"
 			(at 110.49 55.8799 0)
 			(effects
 				(font
@@ -8247,7 +8247,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
-					(reference "R1")
+					(reference "R3")
 					(unit 1)
 				)
 			)

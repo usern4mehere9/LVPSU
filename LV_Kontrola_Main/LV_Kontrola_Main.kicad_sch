@@ -13,7 +13,7 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 20.32 58.42)
+		(at 20.32 55.88)
 		(size 48.26 30.48)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29,7 +29,7 @@
 		)
 		(uuid "557ae6c3-7423-4f85-886c-7b77a48cf289")
 		(property "Sheetname" "Start_3V3_Isolation"
-			(at 20.32 57.7084 0)
+			(at 20.32 55.1684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38,7 +38,7 @@
 			)
 		)
 		(property "Sheetfile" "Start_3V3_Isolation.kicad_sch"
-			(at 20.32 89.4846 0)
+			(at 20.32 86.9446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47,7 +47,7 @@
 			)
 		)
 		(property "Field2" ""
-			(at 20.32 58.42 0)
+			(at 20.32 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58,6 +58,48 @@
 			(project "LV_Kontrola_Main"
 				(path "/b33d6979-93a0-4110-9c2c-0d6314502d31"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.32 91.44)
+		(size 48.26 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7107e474-0151-4e04-9fda-c282389ff903")
+		(property "Sheetname" "Start_Control"
+			(at 20.32 90.7284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "start_control.kicad_sch"
+			(at 20.32 122.5046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LV_Kontrola_Main"
+				(path "/b33d6979-93a0-4110-9c2c-0d6314502d31"
+					(page "4")
 				)
 			)
 		)

@@ -621,6 +621,10 @@
     [
       "557ae6c3-7423-4f85-886c-7b77a48cf289",
       "Start_3V3_Isolation"
+    ],
+    [
+      "7107e474-0151-4e04-9fda-c282389ff903",
+      "Start_Control"
     ]
   ],
   "text_variables": {}
