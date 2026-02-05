@@ -2055,6 +2055,12 @@
 		(uuid "7b031b06-b0d7-421c-89ae-01565e0add71")
 	)
 	(junction
+		(at 204.47 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a7849329-ba63-4a13-9325-a14dc4d37ed3")
+	)
+	(junction
 		(at 212.09 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2973,6 +2979,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 205.74 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0a0abc2c-e083-4238-ae1a-1e3faac76870")
+		(property "Reference" "#PWR065"
+			(at 205.74 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 205.74 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 205.74 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 205.74 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 205.74 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "88a2e1a2-15b4-4e42-af8a-b27f818b7a8d")
+		)
+		(instances
+			(project "LV_Regulator"
+				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dabe8d0-f22d-4d1e-a460-c5fc9599efb1"
+					(reference "#PWR065")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Jumper:SolderJumper_3_Open")
 		(at 158.75 24.13 90)
 		(unit 1)
@@ -3040,10 +3112,6 @@
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dabe8d0-f22d-4d1e-a460-c5fc9599efb1"
 					(reference "JP2")
-					(unit 1)
-				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "JP9")
 					(unit 1)
 				)
 			)
@@ -3119,10 +3187,6 @@
 					(reference "JP1")
 					(unit 1)
 				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "JP7")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -3190,10 +3254,6 @@
 					(reference "#PWR021")
 					(unit 1)
 				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "#PWR064")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -3257,10 +3317,6 @@
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dabe8d0-f22d-4d1e-a460-c5fc9599efb1"
 					(reference "#PWR019")
-					(unit 1)
-				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -3328,10 +3384,6 @@
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dabe8d0-f22d-4d1e-a460-c5fc9599efb1"
 					(reference "C10")
-					(unit 1)
-				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -3405,10 +3457,6 @@
 					(reference "JP4")
 					(unit 1)
 				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "JP12")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -3474,10 +3522,6 @@
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dabe8d0-f22d-4d1e-a460-c5fc9599efb1"
 					(reference "C11")
-					(unit 1)
-				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -3547,10 +3591,6 @@
 					(reference "C8")
 					(unit 1)
 				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "C21")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -3618,10 +3658,6 @@
 					(reference "C9")
 					(unit 1)
 				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "C22")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -3687,10 +3723,6 @@
 					(reference "#PWR046")
 					(unit 1)
 				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "#PWR066")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -3754,10 +3786,6 @@
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dabe8d0-f22d-4d1e-a460-c5fc9599efb1"
 					(reference "#PWR025")
-					(unit 1)
-				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "#PWR072")
 					(unit 1)
 				)
 			)
@@ -3827,10 +3855,6 @@
 					(reference "C12")
 					(unit 1)
 				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "C25")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -3895,10 +3919,6 @@
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dabe8d0-f22d-4d1e-a460-c5fc9599efb1"
 					(reference "#PWR023")
-					(unit 1)
-				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -3966,10 +3986,6 @@
 					(reference "#PWR045")
 					(unit 1)
 				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "#PWR069")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -4034,10 +4050,6 @@
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dabe8d0-f22d-4d1e-a460-c5fc9599efb1"
 					(reference "#PWR020")
-					(unit 1)
-				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -4107,10 +4119,6 @@
 					(reference "JP3")
 					(unit 1)
 				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "JP11")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -4176,10 +4184,6 @@
 					(reference "#PWR047")
 					(unit 1)
 				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "#PWR062")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -4243,10 +4247,6 @@
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dabe8d0-f22d-4d1e-a460-c5fc9599efb1"
 					(reference "#PWR024")
-					(unit 1)
-				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -4320,10 +4320,6 @@
 					(reference "JP6")
 					(unit 1)
 				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "JP8")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -4393,10 +4389,6 @@
 					(reference "C7")
 					(unit 1)
 				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "C20")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -4464,10 +4456,6 @@
 					(reference "#PWR026")
 					(unit 1)
 				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "#PWR070")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -4531,10 +4519,6 @@
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dabe8d0-f22d-4d1e-a460-c5fc9599efb1"
 					(reference "#PWR028")
-					(unit 1)
-				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -4601,10 +4585,6 @@
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dabe8d0-f22d-4d1e-a460-c5fc9599efb1"
 					(reference "#PWR050")
-					(unit 1)
-				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -4678,10 +4658,6 @@
 					(reference "JP5")
 					(unit 1)
 				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "JP10")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -4746,10 +4722,6 @@
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dabe8d0-f22d-4d1e-a460-c5fc9599efb1"
 					(reference "#PWR048")
-					(unit 1)
-				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -4961,10 +4933,6 @@
 					(reference "U2")
 					(unit 1)
 				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "U3")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -5031,8 +4999,71 @@
 					(reference "#PWR049")
 					(unit 1)
 				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "#PWR061")
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 204.47 40.64 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dd3865e1-7864-4921-b496-f7f4eefdd2be")
+		(property "Reference" "#PWR064"
+			(at 208.28 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 200.66 40.6399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 204.47 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 204.47 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 204.47 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fe9a27bf-b837-4e0a-938d-3edffab471cb")
+		)
+		(instances
+			(project "LV_Regulator"
+				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dabe8d0-f22d-4d1e-a460-c5fc9599efb1"
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -5098,10 +5129,6 @@
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dabe8d0-f22d-4d1e-a460-c5fc9599efb1"
 					(reference "#PWR027")
-					(unit 1)
-				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -5171,10 +5198,6 @@
 					(reference "C13")
 					(unit 1)
 				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "C26")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -5239,10 +5262,6 @@
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dabe8d0-f22d-4d1e-a460-c5fc9599efb1"
 					(reference "#PWR022")
-					(unit 1)
-				)
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "#PWR065")
 					(unit 1)
 				)
 			)
