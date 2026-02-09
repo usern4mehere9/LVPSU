@@ -2251,6 +2251,142 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:Fuse"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "F"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Fuse"
+				(at -1.905 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Fuse"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "fuse"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*Fuse*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Fuse_0_1"
+				(rectangle
+					(start -0.762 -2.54)
+					(end 0.762 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Fuse_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:R"
 			(pin_numbers
 				(hide yes)
@@ -4145,6 +4281,12 @@
 		(uuid "15a139b5-7b8a-438a-a006-faff2a7da3f9")
 	)
 	(junction
+		(at 246.38 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "24161bb8-7de8-40c5-9c2d-bf107b28c1e3")
+	)
+	(junction
 		(at 165.1 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4257,6 +4399,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b5b35090-054f-4e1c-94d3-2fd64b9eaa49")
+	)
+	(junction
+		(at 45.72 156.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bed78078-19f5-45db-963f-d2ca2563b92c")
 	)
 	(junction
 		(at 118.11 118.11)
@@ -4488,6 +4636,16 @@
 	)
 	(wire
 		(pts
+			(xy 246.38 139.7) (xy 246.38 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5cf9fff1-1d11-4504-888e-32944b6ca2a8")
+	)
+	(wire
+		(pts
 			(xy 165.1 118.11) (xy 175.26 118.11)
 		)
 		(stroke
@@ -4535,6 +4693,16 @@
 			(type default)
 		)
 		(uuid "6db56fec-e30b-461e-bc2c-5b7744d937f9")
+	)
+	(wire
+		(pts
+			(xy 45.72 156.21) (xy 45.72 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f6184ab-62ad-4fac-9d70-98af46bf6361")
 	)
 	(wire
 		(pts
@@ -4595,6 +4763,16 @@
 			(type default)
 		)
 		(uuid "80d65be0-17d5-43da-9cbd-d70da2188d5b")
+	)
+	(wire
+		(pts
+			(xy 46.99 156.21) (xy 45.72 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84cb07fe-7195-4bd2-ba28-48554444fbdc")
 	)
 	(wire
 		(pts
@@ -4718,7 +4896,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 154.94) (xy 45.72 157.48)
+			(xy 45.72 154.94) (xy 45.72 156.21)
 		)
 		(stroke
 			(width 0)
@@ -4765,6 +4943,16 @@
 			(type default)
 		)
 		(uuid "b77ce3a6-bf9f-4670-a596-caf027ae76ed")
+	)
+	(wire
+		(pts
+			(xy 243.84 139.7) (xy 246.38 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdac74b4-e775-4765-8ad8-cd32d9c13872")
 	)
 	(wire
 		(pts
@@ -4818,7 +5006,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 138.43) (xy 246.38 140.97)
+			(xy 246.38 138.43) (xy 246.38 139.7)
 		)
 		(stroke
 			(width 0)
@@ -4920,7 +5108,7 @@
 	)
 	(global_label "BAT+"
 		(shape input)
-		(at 45.72 152.4 0)
+		(at 54.61 156.21 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4928,9 +5116,9 @@
 			)
 			(justify left)
 		)
-		(uuid "2f85e885-5ddf-4b70-8e11-35935429c6fd")
+		(uuid "212d94df-6d7a-4f08-97da-acdf8a06c925")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 53.6038 152.4 0)
+			(at 62.4938 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4958,28 +5146,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VOUT"
-		(shape input)
-		(at 246.38 135.89 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "49a1f586-935f-4b78-9bfa-ae4612355840")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 238.6776 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -5195,6 +5361,28 @@
 		(uuid "d0a0035a-ef81-4c35-a3b5-8753654e4335")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 231.6625 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VOUT"
+		(shape input)
+		(at 236.22 139.7 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e98a4436-afba-417e-9ff4-3bade04f6260")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 228.5176 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6079,6 +6267,73 @@
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Fuse")
+		(at 240.03 139.7 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3a36440d-3e44-416c-bdfb-442b7c39b481")
+		(property "Reference" "F1"
+			(at 240.03 134.874 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "8A"
+			(at 240.03 137.414 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 240.03 141.478 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 240.03 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fuse"
+			(at 240.03 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2ff5e4fc-21ef-486a-839a-01d3f7c49939")
+		)
+		(pin "2"
+			(uuid "ce22de6b-a414-4409-854b-31fe148c4bb2")
+		)
+		(instances
+			(project ""
+				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
+					(reference "F1")
 					(unit 1)
 				)
 			)
@@ -7027,6 +7282,73 @@
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Fuse")
+		(at 50.8 156.21 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a6b0919b-3e40-415a-a3ba-4791ecf12d2f")
+		(property "Reference" "F4"
+			(at 50.8 151.384 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10A"
+			(at 50.8 153.924 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 50.8 157.988 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 50.8 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fuse"
+			(at 50.8 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2e77ecea-db94-47f5-84fa-88c3e61c6014")
+		)
+		(pin "2"
+			(uuid "4736cdc2-5dcd-417e-b46a-e96a05e30405")
+		)
+		(instances
+			(project "LV_Regulator"
+				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
+					(reference "F4")
 					(unit 1)
 				)
 			)
