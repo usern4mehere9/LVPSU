@@ -1,0 +1,64 @@
+Start
+|
+Podesavanje svih interfejsa (uart,GPIO,eeprom)
+|
+Cekam Main MCU da se javi
+|
+1,2,3
+
+1:
+Dobio start telegram od Main MCU
+|
+Startujem trazeni modul, zapocinjem timer od 5sec(ako ne dobijem nalog da iskljucim posle 5sec gasim ga, nesto nije ok)
+|
+a,b
+
+a:
+Dobio end_start telegram od Main MCU
+|
+Iskljucujem trazeni modul, stop tajmeru
+|
+Log stanje u eeprom
+
+b:
+Proslo je 5sec od start telegrama a nisam dobio end_start
+|
+Iskljuci doticni modul
+|
+Log error u eeprom
+|
+Posalji telegram Main MCU (Start fault i modul koji je fault outovao)
+
+2:
+Dobio stop telegram od Main MCU
+|
+Proveri stanje svakog modula
+|
+a,b
+
+a:
+Modul je u startu
+|
+Iskljuci doticni modul
+|
+Log stanje pri iskljucenju u eeprom 
+
+b:
+Modul nije u startu
+|
+Log stanje pri iskljucenju u eeprom
+
+a,b
+|
+Posalji mini izvestaj glavnom kontoleru (stanja svih modula pri izdavanju stop telegrama)
+|
+KRAJ IZVSENJA
+
+3:
+Dobio status_check telegram od Main MCU
+|
+Proveri stanja svih modula
+|
+Posalji mini izvestaj glavnom kontroleru (stanja svih modua prilikom uzimanja izvestaja)
+|
+Log u eeprom uspesno podnosenje izvestaa, kao i njegov sadrzaj
