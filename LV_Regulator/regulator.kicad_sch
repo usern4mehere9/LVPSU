@@ -2710,9 +2710,9 @@
 		)
 		(uuid "c9d80fb1-0f17-4657-ad33-eb98e66edd98")
 	)
-	(text "NOTE: VAC pin 32 je VAC_REV koji se koristi kada je kontroler u reverse drive-u\n"
+	(text "NOTE: Regulator Controller, note for VAC NC - pin 32 is meant for reverse mode driving / which we won't do\n"
 		(exclude_from_sim no)
-		(at 51.816 52.324 0)
+		(at 66.802 52.578 0)
 		(effects
 			(font
 				(size 1.27 1.27)
