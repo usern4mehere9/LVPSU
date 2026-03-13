@@ -4883,7 +4883,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "---"
 			(at 143.51 72.898 90)
 			(effects
 				(font
@@ -5499,7 +5499,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "---"
 			(at 143.51 64.008 90)
 			(effects
 				(font
@@ -8941,7 +8941,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "---"
 			(at 143.51 80.518 90)
 			(effects
 				(font
@@ -9073,7 +9073,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "---"
 			(at 143.51 55.118 90)
 			(effects
 				(font
