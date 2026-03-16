@@ -4891,7 +4891,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 143.51 76.708 90)
 			(effects
 				(font
@@ -4960,7 +4960,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 17.272 130.81 90)
 			(effects
 				(font
@@ -5093,7 +5093,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 101.6 27.178 90)
 			(effects
 				(font
@@ -5160,7 +5160,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 58.42 88.138 90)
 			(effects
 				(font
@@ -5229,7 +5229,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 19.05 123.19 0)
 			(effects
 				(font
@@ -5440,7 +5440,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 184.4548 101.6 0)
 			(effects
 				(font
@@ -5507,7 +5507,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 143.51 67.818 90)
 			(effects
 				(font
@@ -5574,7 +5574,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 20.32 33.782 90)
 			(effects
 				(font
@@ -5775,7 +5775,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 22.352 130.81 90)
 			(effects
 				(font
@@ -5844,7 +5844,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "DDPAK/TO-263_KTT_TEX"
+		(property "Footprint" "CSD19506KTT:DDPAK&slash_TO-263_KTT_TEX"
 			(at 153.67 139.7 0)
 			(effects
 				(font
@@ -5917,7 +5917,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 232.41 110.998 90)
 			(effects
 				(font
@@ -6118,7 +6118,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 116.84 27.178 90)
 			(effects
 				(font
@@ -6187,7 +6187,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 42.2148 99.06 0)
 			(effects
 				(font
@@ -6320,7 +6320,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 50.8 18.542 90)
 			(effects
 				(font
@@ -6389,7 +6389,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 170.18 103.1748 0)
 			(effects
 				(font
@@ -6524,7 +6524,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm"
 			(at 25.4 30.48 0)
 			(effects
 				(font
@@ -6597,7 +6597,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "DDPAK/TO-263_KTT_TEX"
+		(property "Footprint" "CSD19506KTT:DDPAK&slash_TO-263_KTT_TEX"
 			(at 193.04 119.38 0)
 			(effects
 				(font
@@ -6669,7 +6669,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 20.32 23.622 90)
 			(effects
 				(font
@@ -6933,7 +6933,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 101.6 37.338 90)
 			(effects
 				(font
@@ -7066,7 +7066,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 50.8 33.782 90)
 			(effects
 				(font
@@ -7133,7 +7133,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 194.31 127.9652 0)
 			(effects
 				(font
@@ -7203,7 +7203,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "DDPAK/TO-263_KTT_TEX"
+		(property "Footprint" "CSD19506KTT:DDPAK&slash_TO-263_KTT_TEX"
 			(at 193.04 139.7 0)
 			(effects
 				(font
@@ -7275,7 +7275,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 50.8 23.622 90)
 			(effects
 				(font
@@ -7325,7 +7325,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "95791b8b-40aa-4ea5-9cd5-ce8715f8e550")
 		(property "Reference" "U5"
 			(at 86.36 60.96 0)
@@ -7343,7 +7342,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RRV0036B-IPC_A"
+		(property "Footprint" "ul_BQ25858QWRRVRQ1:RRV0036B-IPC_A"
 			(at 62.23 71.12 0)
 			(effects
 				(font
@@ -7520,7 +7519,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 24.13 123.19 0)
 			(effects
 				(font
@@ -7596,7 +7595,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 152.4 126.0348 0)
 			(effects
 				(font
@@ -7665,7 +7664,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 34.5948 114.3 0)
 			(effects
 				(font
@@ -7733,7 +7732,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_APV_APH1770"
 			(at 172.72 128.27 0)
 			(effects
 				(font
@@ -7800,7 +7799,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 86.36 37.338 90)
 			(effects
 				(font
@@ -7869,7 +7868,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 223.012 113.03 90)
 			(effects
 				(font
@@ -8072,7 +8071,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 249.8852 116.84 0)
 			(effects
 				(font
@@ -8139,7 +8138,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 86.36 27.178 90)
 			(effects
 				(font
@@ -8206,7 +8205,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 109.22 27.178 90)
 			(effects
 				(font
@@ -8273,7 +8272,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 232.41 115.8748 0)
 			(effects
 				(font
@@ -8406,7 +8405,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 93.98 37.338 90)
 			(effects
 				(font
@@ -8476,7 +8475,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 238.252 113.03 90)
 			(effects
 				(font
@@ -8610,7 +8609,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 20.32 18.542 90)
 			(effects
 				(font
@@ -8745,7 +8744,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm"
 			(at 35.56 20.32 0)
 			(effects
 				(font
@@ -8815,7 +8814,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 240.03 115.8748 0)
 			(effects
 				(font
@@ -8882,7 +8881,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 93.98 27.178 90)
 			(effects
 				(font
@@ -8949,7 +8948,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 143.51 84.328 90)
 			(effects
 				(font
@@ -9081,7 +9080,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 143.51 58.928 90)
 			(effects
 				(font
@@ -9150,7 +9149,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "DDPAK/TO-263_KTT_TEX"
+		(property "Footprint" "CSD19506KTT:DDPAK&slash_TO-263_KTT_TEX"
 			(at 153.67 119.38 0)
 			(effects
 				(font
@@ -9356,7 +9355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm"
 			(at 82.55 30.48 0)
 			(effects
 				(font
@@ -9427,7 +9426,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm"
 			(at 45.72 30.48 0)
 			(effects
 				(font
