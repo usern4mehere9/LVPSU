@@ -625,6 +625,10 @@
     [
       "7107e474-0151-4e04-9fda-c282389ff903",
       "Start_Control"
+    ],
+    [
+      "53df4958-5d98-48b5-b008-e2b820e5f732",
+      "Start_Power"
     ]
   ],
   "text_variables": {}

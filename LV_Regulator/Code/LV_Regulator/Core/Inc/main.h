@@ -67,6 +67,8 @@ void Error_Handler(void);
 #define RELEJ_GPIO_Port GPIOB
 #define BOOT1_Pin GPIO_PIN_2
 #define BOOT1_GPIO_Port GPIOB
+#define INT_N_Pin GPIO_PIN_10
+#define INT_N_GPIO_Port GPIOB
 #define ADR1_Pin GPIO_PIN_11
 #define ADR1_GPIO_Port GPIOB
 #define ADR2_Pin GPIO_PIN_12
@@ -83,6 +85,8 @@ void Error_Handler(void);
 #define DIAG_TX_GPIO_Port GPIOA
 #define DIAG_RX_Pin GPIO_PIN_10
 #define DIAG_RX_GPIO_Port GPIOA
+#define CE_N_Pin GPIO_PIN_15
+#define CE_N_GPIO_Port GPIOA
 
 /* USER CODE BEGIN Private defines */
 

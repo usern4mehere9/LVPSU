@@ -13,6 +13,48 @@
 	)
 	(lib_symbols)
 	(sheet
+		(at 20.32 127)
+		(size 48.26 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "53df4958-5d98-48b5-b008-e2b820e5f732")
+		(property "Sheetname" "Start_Power"
+			(at 20.32 126.2884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Start_Power.kicad_sch"
+			(at 20.32 158.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LV_Kontrola_Main"
+				(path "/b33d6979-93a0-4110-9c2c-0d6314502d31"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 20.32 55.88)
 		(size 48.26 30.48)
 		(exclude_from_sim no)
