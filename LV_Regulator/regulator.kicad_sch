@@ -19,8 +19,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at 0 2.54 0)
+			(property "Reference" "U5"
+				(at 24.13 10.16 0)
 				(effects
 					(font
 						(size 1.524 1.524)
@@ -28,14 +28,14 @@
 				)
 			)
 			(property "Value" "BQ25858QWRRVRQ1"
-				(at 0 0 0)
+				(at 24.13 7.62 0)
 				(effects
 					(font
 						(size 1.524 1.524)
 					)
 				)
 			)
-			(property "Footprint" "RRV0036B-IPC_A"
+			(property "Footprint" "ul_BQ25858QWRRVRQ1:RRV0036B-IPC_A"
 				(at 0 0 0)
 				(effects
 					(font
@@ -91,54 +91,6 @@
 				)
 			)
 			(symbol "BQ25858QWRRVRQ1_0_1"
-				(polyline
-					(pts
-						(xy 5.08 5.08) (xy 5.08 -71.12)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 -71.12) (xy 43.18 -71.12)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 43.18 5.08) (xy 5.08 5.08)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 43.18 -71.12) (xy 43.18 5.08)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
 				(pin unspecified line
 					(at 0 0 0)
 					(length 5.08)
@@ -803,6 +755,19 @@
 								(size 1.27 1.27)
 							)
 						)
+					)
+				)
+			)
+			(symbol "BQ25858QWRRVRQ1_1_1"
+				(rectangle
+					(start 5.08 5.08)
+					(end 43.18 -71.12)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
 					)
 				)
 			)
@@ -5986,7 +5951,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ul_UCZ1J181MNQ1MS:CAP_UCD_12P5X13P5_NCH"
 			(at 261.3152 116.84 0)
 			(effects
 				(font

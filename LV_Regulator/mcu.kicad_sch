@@ -4000,6 +4000,38 @@
 		(color 0 0 0 0)
 		(uuid "fb0ef0d1-7617-4988-b793-af2859e7740d")
 	)
+	(no_connect
+		(at 228.6 78.74)
+		(uuid "0b083e02-d43f-44de-8b17-825bbc782ecd")
+	)
+	(no_connect
+		(at 228.6 76.2)
+		(uuid "26f8366e-8599-43ad-a5c1-64b04671b8aa")
+	)
+	(no_connect
+		(at 35.56 91.44)
+		(uuid "5baddaca-59af-467a-8b34-560c0a5ce2fe")
+	)
+	(no_connect
+		(at 35.56 96.52)
+		(uuid "77bac2b5-194e-4242-8612-1a5b361290ec")
+	)
+	(no_connect
+		(at 35.56 93.98)
+		(uuid "78f4f50c-02a3-4aa4-a1b3-79e4ce55975d")
+	)
+	(no_connect
+		(at 35.56 88.9)
+		(uuid "9c84f60e-9d23-41e6-bc31-e3bc777c68e1")
+	)
+	(no_connect
+		(at 228.6 68.58)
+		(uuid "f8726460-2f66-4012-bab0-3bba6c9645b5")
+	)
+	(no_connect
+		(at 228.6 73.66)
+		(uuid "fcdbba43-27a2-458b-9bc4-6590518a1654")
+	)
 	(wire
 		(pts
 			(xy 123.19 157.48) (xy 124.46 157.48)
@@ -6581,7 +6613,7 @@
 				)
 			)
 		)
-		(property "Footprint" "USB-C:MOLEX_2169890001"
+		(property "Footprint" "USB_C:MOLEX_2169890001"
 			(at 53.34 91.44 0)
 			(effects
 				(font

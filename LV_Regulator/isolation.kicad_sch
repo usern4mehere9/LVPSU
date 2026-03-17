@@ -1675,8 +1675,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "K"
-				(at 29.21 7.112 0)
+			(property "Reference" "K1"
+				(at -8.636 3.556 90)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1685,7 +1685,7 @@
 				)
 			)
 			(property "Value" "41.52.9.005.0010"
-				(at 29.21 4.572 0)
+				(at -6.096 3.556 90)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1938,7 +1938,7 @@
 						(type solid)
 					)
 					(fill
-						(type none)
+						(type background)
 					)
 				)
 			)
@@ -4683,6 +4683,18 @@
 		(color 0 0 0 0)
 		(uuid "fb5f2785-60bb-4478-a8b0-ccefdbf56cbe")
 	)
+	(no_connect
+		(at 153.67 113.03)
+		(uuid "41e40475-ff0d-4292-8952-1a0e645160cd")
+	)
+	(no_connect
+		(at 130.81 146.05)
+		(uuid "81a57169-43fa-42da-a6bd-6836cd39b814")
+	)
+	(no_connect
+		(at 130.81 179.07)
+		(uuid "a1a8bf7b-0b4f-4ea9-858f-50472b522d24")
+	)
 	(wire
 		(pts
 			(xy 120.65 59.69) (xy 115.57 59.69)
@@ -6760,7 +6772,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CONN_SD-43045-001_04_MOL"
+		(property "Footprint" "microfit-4pin:CONN_SD-43045-001_04_MOL"
 			(at 45.72 58.42 0)
 			(effects
 				(font
@@ -7800,7 +7812,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CONN_SD-43045-001_08_MOL"
+		(property "Footprint" "microfit-8pin:CONN_SD-43045-001_08_MOL"
 			(at 45.72 170.18 0)
 			(effects
 				(font
@@ -8269,7 +8281,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CONN_SD-43045-001_04_MOL"
+		(property "Footprint" "microfit-4pin:CONN_SD-43045-001_04_MOL"
 			(at 245.11 41.91 0)
 			(effects
 				(font
@@ -8575,7 +8587,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CONN_SD-43045-001_08_MOL"
+		(property "Footprint" "microfit-8pin:CONN_SD-43045-001_08_MOL"
 			(at 246.38 135.89 0)
 			(effects
 				(font
