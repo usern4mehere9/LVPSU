@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=MIC29152WU
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=6
+Version=1.7
+Released=2024-03-19 05:33:47
+Downloaded=2026-03-18 10:08:08
+3D=Y

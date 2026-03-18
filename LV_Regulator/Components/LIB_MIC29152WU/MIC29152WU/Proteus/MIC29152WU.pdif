@@ -1,0 +1,131 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "MIC29152WU"
+   (description "MICREL SEMICONDUCTOR - MIC29152WU - IC, V REG, LDO 1.5A ADJ, SMD, 29152")
+   (family "ANA")
+   (package "MIC29152WU")
+   (attribute "Datasheet Link" "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.mouser.in/datasheet/2/268/MIC2915x_30x_50x_75x_High_Current_Low_Dropout_Regu-3103149.pdf")
+   (attribute "Geometry.Height" "5.08mm")
+   (attribute "Mouser Part Number" "998-MIC29152WU")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MIC29152WU?qs=kh6iOki%2FeLHeF19%2FNG7LNg%3D%3D")
+   (attribute "Manufacturer_Name" "Microchip")
+   (attribute "Manufacturer_Part_Number" "MIC29152WU")
+   (gate
+    (symbol "MIC29152WU")
+    (pin "FLG" 1 PS)
+    (pin "IN" 2 PS)
+    (pin "GND_1" 3 PS)
+    (pin "OUT" 4 PS)
+    (pin "ADJ" 5 PS)
+    (pin "GND_2" 6 PS)
+   )
+  )
+  (symbol "MIC29152WU"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -500) (pt 200 -500) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "MIC29152WU"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.08 6.452)
+      (pt 5.08 6.452)
+      (pt 5.08 -2.565)
+      (pt -5.08 -2.565)
+      (pt -5.08 6.452))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.372 9.153)
+      (pt 6.372 9.153)
+      (pt 6.372 -9.471)
+      (pt -6.372 -9.471)
+      (pt -6.372 9.153))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -5.08 -0.6)
+      (pt -5.08 -2.565)
+      (pt 5.08 -2.565)
+      (pt 5.08 -0.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.404 -9)
+      (arc (pt -3.404 -9.000) (pt -3.454 -9.000) (pt -3.354 -8.900) (start 180.0) (sweep -89.8))
+      (pt -3.404 -8.9)
+      (arc (pt -3.404 -8.900) (pt -3.454 -9.000) (pt -3.354 -8.900) (start 180.0) (sweep 90.2))
+      (pt -3.404 -9))))
+   (leg 1 (pt -3.404 -6.452) (padstack 0))
+   (leg 2 (pt -1.702 -6.452) (padstack 0))
+   (leg 3 (pt 0.000 -6.452) (padstack 0))
+   (leg 4 (pt 1.702 -6.452) (padstack 0))
+   (leg 5 (pt 3.404 -6.452) (padstack 0))
+   (leg 6 (pt 0.000 4.001) (padstack 6))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.041 4.039 0 0 90.000))
+   )
+   (padstack 6
+    (plated false)
+    (pad (layer TCOP) (rectf 8.306 10.744 0 0 0.000))
+   )
+   (model "MIC29152WU.stp"
+    (euler 90 0 0)
+    (offset 0 -0.6899999976158142 0.25)
+   )
+  )
+ )
+)

@@ -1,0 +1,16 @@
+.MIC29152WU :1 ;MICREL SEMICONDUCTOR - MIC29152WU - IC, V REG, LDO 1.5A ADJ, SMD, 29152
+MIC29152WU
+*STM IC
+*NGS
+*PLB 1="FLG" 2="IN" 3="GND_1" 4="OUT" 5="ADJ" 6="GND_2"
+*MXP 6
+*DFN MIC29152WU
+~!Mouser Part Number (998-MIC29152WU)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MIC29152WU?qs=kh6iOki%2FeLHeF19%2FNG7LNg%3D%3D)
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (MIC29152WU)
+~!Link Datasheet (chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.mouser.in/datasheet/2/268/MIC2915x_30x_50x_75x_High_Current_Low_Dropout_Regu-3103149.pdf)
+~!Height (5.08mm)
+~!3D_Model (MIC29152WU)
+MIC29152WU
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 
