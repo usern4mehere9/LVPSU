@@ -9,5 +9,5 @@
   (lib (name "CSD19506KTT")(type "KiCad")(uri "${KIPRJMOD}/Components/ul_CSD19506KTT/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "ul_UCZ1J181MNQ1MS")(type "KiCad")(uri "${KIPRJMOD}/Components/ul_UCZ1J181MNQ1MS/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "USB_C")(type "KiCad")(uri "${KIPRJMOD}/Components/USB-C")(options "")(descr ""))
-  (lib (name "FCSL110R005FER")(type "KiCad")(uri "C:/Users/Pyonier/Documents/GitHub/LVPSU/LV_Regulator/Components/LIB_FCSL110R005FER/FCSL110R005FER/KiCad")(options "")(descr ""))
+  (lib (name "FCSL110R005FER")(type "KiCad")(uri "${KIPRJMOD}/Components/LIB_FCSL110R005FER/FCSL110R005FER/KiCad")(options "")(descr ""))
 )

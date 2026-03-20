@@ -2976,12 +2976,6 @@
 		(uuid "b6b68d01-0a9c-4eae-8be8-e83d34ca8f30")
 	)
 	(junction
-		(at 90.17 35.56)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b8b6face-1619-4582-9c14-7a9f8b66665c")
-	)
-	(junction
 		(at 161.29 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3010,6 +3004,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e5a2470d-9b87-41c0-89d8-80f186cb1216")
+	)
+	(junction
+		(at 90.17 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ebb5643f-24ca-473f-b12e-8d18d7fe60af")
 	)
 	(junction
 		(at 111.76 128.27)
@@ -4872,7 +4872,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 143.51 76.708 90)
 			(effects
 				(font
@@ -4892,6 +4892,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 143.51 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Vishay-Beyschlag/MCS04020Z0000ZE000?qs=1PkaV7r7jRAw43UYAxSbQw%3D%3D"
+			(at 143.51 74.93 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4941,7 +4950,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 17.272 130.81 90)
 			(effects
 				(font
@@ -4960,6 +4969,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 19.05 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Panasonic/ERJ-T08J103V?qs=sGAEpiMZZMtlubZbdhIBIK7FbVYKWV6W0pU9P6mV%2Ftc%3D"
 			(at 19.05 130.81 0)
 			(effects
 				(font
@@ -5074,7 +5092,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 101.6 27.178 90)
 			(effects
 				(font
@@ -5094,6 +5112,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 101.6 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/KOA-Speer/RN73R2BTTD1001B25?qs=2WXlatMagcH37CMjW4no9w%3D%3D"
+			(at 101.6 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5141,7 +5168,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 58.42 88.138 90)
 			(effects
 				(font
@@ -5237,7 +5264,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Light emitting diode, yellow"
 			(at 19.05 123.19 0)
 			(effects
 				(font
@@ -5248,6 +5275,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 19.05 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/American-Bright-LED/BL-HKB33Q-AV-TRB?qs=Y0Uzf4wQF3l5aAeA8gsNCw%3D%3D"
+			(at 19.05 123.19 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5506,7 +5542,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 143.51 67.818 90)
 			(effects
 				(font
@@ -5526,6 +5562,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 143.51 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Vishay-Beyschlag/MCS04020Z0000ZE000?qs=1PkaV7r7jRAw43UYAxSbQw%3D%3D"
+			(at 143.51 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5573,7 +5618,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 20.32 33.782 90)
 			(effects
 				(font
@@ -5593,6 +5638,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 20.32 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/KOA-Speer/RN73H2BTTD8062F50?qs=egkD4cx1ihTPwGpTlMv%2FKg%3D%3D"
+			(at 20.32 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5852,7 +5906,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 22.352 130.81 90)
 			(effects
 				(font
@@ -5871,6 +5925,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 24.13 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase place" "https://eu.mouser.com/ProductDetail/Panasonic/ERJ-T08J103V?qs=sGAEpiMZZMtlubZbdhIBIK7FbVYKWV6W0pU9P6mV%2Ftc%3D"
 			(at 24.13 130.81 0)
 			(effects
 				(font
@@ -6212,7 +6275,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 116.84 27.178 90)
 			(effects
 				(font
@@ -6232,6 +6295,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 116.84 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/KOA-Speer/RN73R2BTTD1001B25?qs=2WXlatMagcH37CMjW4no9w%3D%3D"
+			(at 116.84 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6423,7 +6495,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 50.8 18.542 90)
 			(effects
 				(font
@@ -6450,6 +6522,15 @@
 				(hide yes)
 			)
 		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/KOA-Speer/RN73H2BTTD6732D10?qs=rI7uf1IzohTyC5Q9kiKQZQ%3D%3D"
+			(at 50.8 20.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a6e6094e-cdac-481f-a460-fb8c1db6b664")
 		)
@@ -6460,75 +6541,6 @@
 			(project ""
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
 					(reference "R31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 166.37 104.14 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5c94ad7c-a8c6-4c92-b4ec-8f4ebb192992")
-		(property "Reference" "C25"
-			(at 163.83 97.536 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "80uF"
-			(at 163.83 100.076 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
-			(at 170.18 103.1748 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 166.37 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 166.37 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dcf1fb25-c2e4-4b3f-b15f-a4a72d2713ef")
-		)
-		(pin "2"
-			(uuid "0d19ee42-53f6-4ee2-871a-ec6dd7eb01fe")
-		)
-		(instances
-			(project ""
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -6627,7 +6639,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm"
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 25.4 30.48 0)
 			(effects
 				(font
@@ -6772,7 +6784,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 20.32 23.622 90)
 			(effects
 				(font
@@ -6792,6 +6804,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 20.32 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/KOA-Speer/RN73H2BTTD1003B25?qs=G1LhLIAbs1wIuuYtOEogfA%3D%3D"
+			(at 20.32 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7101,7 +7122,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 101.6 37.338 90)
 			(effects
 				(font
@@ -7121,6 +7142,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 101.6 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/KOA-Speer/RN73H2BTTD2202F100?qs=egkD4cx1ihQzyZ5aSCTtGw%3D%3D"
+			(at 101.6 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7234,7 +7264,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 50.8 33.782 90)
 			(effects
 				(font
@@ -7254,6 +7284,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 50.8 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/KOA-Speer/RN73R2BTTD5002B25?qs=2WXlatMagcHXnQ1HwYzmYA%3D%3D"
+			(at 50.8 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7452,7 +7491,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 50.8 23.622 90)
 			(effects
 				(font
@@ -7472,6 +7511,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 50.8 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/KOA-Speer/RN73H2BTTD5762B50?qs=rI7uf1IzohRjg5ImrTOTZw%3D%3D"
+			(at 50.8 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7714,7 +7762,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Light emitting diode, RED colour"
 			(at 24.13 123.19 0)
 			(effects
 				(font
@@ -7725,6 +7773,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 24.13 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/American-Bright-LED/BL-HUB33Q-AV-TRB?qs=9qK3lZr%252Bi0LYGJCJ6hjvfA%3D%3D"
+			(at 24.13 123.19 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7841,7 +7898,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "4.7uF"
 			(at 41.402 122.174 90)
 			(effects
 				(font
@@ -7870,6 +7927,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 35.56 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Walsin/SH31B475K250CT?qs=sGAEpiMZZMsh%252B1woXyUXjwgBgA0GYurkOe2xTrHbFqI%3D"
+			(at 35.56 118.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7962,73 +8028,6 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 86.36 35.56 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9b044ae0-08a9-4f32-a3c0-a102ba4d2bec")
-		(property "Reference" "R14"
-			(at 86.36 38.1 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1M"
-			(at 86.36 40.64 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 86.36 37.338 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 86.36 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 86.36 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e94a16b7-a88f-4534-9d2d-5dde7b6338c3")
-		)
-		(pin "1"
-			(uuid "7fc749c9-c907-4ff7-aaee-cffc2da2981c")
-		)
-		(instances
-			(project "LV_Regulator"
-				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
-					(reference "R14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
 		(at 224.79 113.03 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8054,7 +8053,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 223.012 113.03 90)
 			(effects
 				(font
@@ -8333,7 +8332,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 86.36 27.178 90)
 			(effects
 				(font
@@ -8353,6 +8352,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 86.36 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/KOA-Speer/RN73H2BTTD1003F100?qs=egkD4cx1ihQEsCi3Pgq3SQ%3D%3D"
+			(at 86.36 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8400,7 +8408,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 109.22 27.178 90)
 			(effects
 				(font
@@ -8420,6 +8428,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 109.22 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/KOA-Speer/RN73H2BTTD2202F100?qs=egkD4cx1ihQzyZ5aSCTtGw%3D%3D"
+			(at 109.22 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8609,7 +8626,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 93.98 37.338 90)
 			(effects
 				(font
@@ -8629,6 +8646,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 93.98 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/KOA-Speer/RN73H2BTTD3123F50?qs=egkD4cx1ihSun6G6xPVr3A%3D%3D"
+			(at 93.98 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8679,7 +8705,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 238.252 113.03 90)
 			(effects
 				(font
@@ -8788,6 +8814,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 166.37 104.14 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d37b4ace-a25c-460e-9866-fcec3e925ed0")
+		(property "Reference" "C25"
+			(at 165.1 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "56uF"
+			(at 167.64 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ul_UCZ1J181MNQ1MS:CAP_UCD_12P5X13P5_NCH"
+			(at 170.18 103.1748 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 166.37 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 166.37 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buying Place" "https://eu.mouser.com/ProductDetail/Nichicon/UPM1J560MPD1TD?qs=sGAEpiMZZMsh%252B1woXyUXjxqqPit2tXVBZePDpSS4NTc%3D"
+			(at 166.37 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "aa3aa1d6-22a1-4c5c-b7eb-263736f23d57")
+		)
+		(pin "2"
+			(uuid "97402d61-07b5-4b57-a724-a5c6e8ff57d1")
+		)
+		(instances
+			(project "LV_Regulator"
+				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
+					(reference "C25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 20.32 20.32 270)
 		(unit 1)
@@ -8813,7 +8917,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 20.32 18.542 90)
 			(effects
 				(font
@@ -8833,6 +8937,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 20.32 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase place" "https://eu.mouser.com/ProductDetail/KOA-Speer/RN73H2BTTD1323F25?qs=egkD4cx1ihSPXH0wbR3%2Fvg%3D%3D"
+			(at 20.32 20.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8948,7 +9061,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm"
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 35.56 20.32 0)
 			(effects
 				(font
@@ -9094,7 +9207,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 93.98 27.178 90)
 			(effects
 				(font
@@ -9114,6 +9227,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 93.98 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/KOA-Speer/RN73H2BTTD1153F100?qs=egkD4cx1ihRrPVr9m6Kwpw%3D%3D"
+			(at 93.98 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9161,7 +9283,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 143.51 84.328 90)
 			(effects
 				(font
@@ -9181,6 +9303,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 143.51 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Vishay-Beyschlag/MCS04020Z0000ZE000?qs=1PkaV7r7jRAw43UYAxSbQw%3D%3D"
+			(at 143.51 82.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9293,7 +9424,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 143.51 58.928 90)
 			(effects
 				(font
@@ -9313,6 +9444,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 143.51 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Vishay-Beyschlag/MCS04020Z0000ZE000?qs=1PkaV7r7jRAw43UYAxSbQw%3D%3D"
+			(at 143.51 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9568,7 +9708,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm"
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 82.55 30.48 0)
 			(effects
 				(font
@@ -9679,6 +9819,82 @@
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
 					(reference "JP11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 86.36 35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fad8de8d-8ea4-4cdb-a173-c1081a800612")
+		(property "Reference" "R8"
+			(at 86.36 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1M"
+			(at 86.36 40.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+			(at 86.36 37.338 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 86.36 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 86.36 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/KOA-Speer/RN73H2BTTD1003F100?qs=egkD4cx1ihQEsCi3Pgq3SQ%3D%3D"
+			(at 86.36 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "31a4afec-2a80-458b-ac64-0de62e5bada1")
+		)
+		(pin "1"
+			(uuid "c0584cbc-4e3e-481f-bbbb-c86cf902dc3d")
+		)
+		(instances
+			(project "LV_Regulator"
+				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
+					(reference "R8")
 					(unit 1)
 				)
 			)

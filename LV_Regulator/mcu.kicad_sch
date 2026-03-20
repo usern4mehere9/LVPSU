@@ -3836,7 +3836,7 @@
 		(at 204.47 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0fb92a8e-2fa7-42a7-affd-90243cc4ffa0")
+		(uuid "04eff574-d97c-41aa-b01d-56068b716b52")
 	)
 	(junction
 		(at 33.02 151.13)
@@ -4182,6 +4182,16 @@
 	)
 	(wire
 		(pts
+			(xy 212.09 148.59) (xy 212.09 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b951895-1ce7-4dd8-98ea-48c80f227dbd")
+	)
+	(wire
+		(pts
 			(xy 130.81 52.07) (xy 139.7 52.07)
 		)
 		(stroke
@@ -4479,16 +4489,6 @@
 			(type default)
 		)
 		(uuid "ce02482c-d2cc-4ffd-95ac-44818d20b5fd")
-	)
-	(wire
-		(pts
-			(xy 204.47 148.59) (xy 212.09 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1abcb0c-7660-4e54-bdaf-d3c89ff1ef1c")
 	)
 	(wire
 		(pts
@@ -6277,7 +6277,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 83.82 40.64 0)
 			(effects
 				(font
@@ -6306,6 +6306,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 83.82 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/VCC/CMD11-21VYC-TR8?qs=N8%252Bk0S5zvCYHGaXDbAAYSQ%3D%3D"
+			(at 83.82 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6356,7 +6365,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 82.042 48.26 90)
 			(effects
 				(font
@@ -6375,6 +6384,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 83.82 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Panasonic/ERA-8AEB271V?qs=Ojoo2rCVP9QMqW%2FU5Qd6jQ%3D%3D"
 			(at 83.82 48.26 0)
 			(effects
 				(font
@@ -6957,7 +6975,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 93.98 40.64 0)
 			(effects
 				(font
@@ -6986,6 +7004,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 93.98 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Kingbright/APT3216LSECK-J4-PRV?qs=6oMev5NRZMHppAYK50qiIg%3D%3D"
+			(at 93.98 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7036,7 +7063,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 129.032 48.26 90)
 			(effects
 				(font
@@ -7055,6 +7082,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 130.81 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Panasonic/ERA-8AEB131V?qs=Ojoo2rCVP9TrpPj4XUmTEQ%3D%3D"
 			(at 130.81 48.26 0)
 			(effects
 				(font
@@ -7104,7 +7140,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 125.73 91.44 0)
 			(effects
 				(font
@@ -7268,6 +7304,15 @@
 				(hide yes)
 			)
 		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Panasonic/ERA-8AHD270V?qs=MNPzkKEzRtQao2AraMolwQ%3D%3D"
+			(at 54.61 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "938c4472-6413-4df3-98de-88a63a7e1e11")
 		)
@@ -7377,7 +7422,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm"
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 189.23 153.67 0)
 			(effects
 				(font
@@ -7450,7 +7495,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm"
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 167.64 153.67 0)
 			(effects
 				(font
@@ -7589,7 +7634,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 241.3 148.8948 0)
 			(effects
 				(font
@@ -7659,7 +7704,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 26.162 48.26 90)
 			(effects
 				(font
@@ -7678,6 +7723,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 27.94 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Panasonic/ERA-8AEB271V?qs=Ojoo2rCVP9QMqW%2FU5Qd6jQ%3D%3D"
 			(at 27.94 48.26 0)
 			(effects
 				(font
@@ -7793,7 +7847,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 113.03 40.64 0)
 			(effects
 				(font
@@ -7822,6 +7876,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 113.03 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/American-Bright-LED/BL-HUB33Q-AV-TRB?qs=9qK3lZr%252Bi0LYGJCJ6hjvfA%3D%3D"
+			(at 113.03 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8093,6 +8156,15 @@
 				(hide yes)
 			)
 		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Panasonic/ERA-8ARB512V?qs=6%252Bc%252B2ke79U5SMWj%2FkMBHmA%3D%3D"
+			(at 31.75 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c6e7269d-f2c1-4648-8704-00eb57c0e3d0")
 		)
@@ -8133,7 +8205,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 40.64 160.3248 0)
 			(effects
 				(font
@@ -8153,6 +8225,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 36.83 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Murata-Electronics/GRM02YD80G104ME01L?qs=sGAEpiMZZMuMW9TJLBQkXhpPbABBnwlbXTX3Q8CTNwg%3D"
+			(at 36.83 161.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8202,7 +8283,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 62.23 40.64 0)
 			(effects
 				(font
@@ -8231,6 +8312,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 62.23 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Kingbright/APT3216LSECK-J4-PRV?qs=6oMev5NRZMHppAYK50qiIg%3D%3D"
+			(at 62.23 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8346,7 +8436,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm"
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 148.59 157.48 0)
 			(effects
 				(font
@@ -8481,7 +8571,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 40.64 169.2148 0)
 			(effects
 				(font
@@ -8501,6 +8591,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 36.83 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "Purchase Placehttps://eu.mouser.com/ProductDetail/Murata-Electronics/GXT188R60G106ME13D?qs=d0WKAl%252BL4Kb%252Bfon0vzHXmg%3D%3D"
+			(at 36.83 170.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8551,7 +8650,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 37.592 48.26 90)
 			(effects
 				(font
@@ -8570,6 +8669,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 39.37 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Panasonic/ERA-8AEB131V?qs=Ojoo2rCVP9TrpPj4XUmTEQ%3D%3D"
 			(at 39.37 48.26 0)
 			(effects
 				(font
@@ -8754,7 +8862,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 40.64 150.1648 0)
 			(effects
 				(font
@@ -8774,6 +8882,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 36.83 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Murata-Electronics/GRM02YD80G104ME01L?qs=sGAEpiMZZMuMW9TJLBQkXhpPbABBnwlbXTX3Q8CTNwg%3D"
+			(at 36.83 151.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8822,7 +8939,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm"
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 91.44 157.48 0)
 			(effects
 				(font
@@ -8895,7 +9012,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 137.922 48.26 90)
 			(effects
 				(font
@@ -8914,6 +9031,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 139.7 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Panasonic/ERA-8AEB131V?qs=Ojoo2rCVP9TrpPj4XUmTEQ%3D%3D"
 			(at 139.7 48.26 0)
 			(effects
 				(font
@@ -8982,6 +9108,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 74.93 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Panasonic/ERA-8ARB512V?qs=6%252Bc%252B2ke79U5SMWj%2FkMBHmA%3D%3D"
+			(at 74.93 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9163,7 +9298,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 104.14 40.64 0)
 			(effects
 				(font
@@ -9192,6 +9327,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 104.14 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Kingbright/APL3015MGC?qs=moO%2F8p2KOt9NotKM%2FS7uIg%3D%3D"
+			(at 104.14 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9239,7 +9383,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 40.64 155.2448 0)
 			(effects
 				(font
@@ -9259,6 +9403,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 36.83 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Murata-Electronics/GRM02YD80G104ME01L?qs=sGAEpiMZZMuMW9TJLBQkXhpPbABBnwlbXTX3Q8CTNwg%3D"
+			(at 36.83 156.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9308,7 +9461,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 39.37 40.64 0)
 			(effects
 				(font
@@ -9337,6 +9490,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 39.37 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Kingbright/APT3216LSECK-J4-PRV?qs=6oMev5NRZMHppAYK50qiIg%3D%3D"
+			(at 39.37 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9518,7 +9680,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 60.452 48.26 90)
 			(effects
 				(font
@@ -9537,6 +9699,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 62.23 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Panasonic/ERA-8AEB131V?qs=Ojoo2rCVP9TrpPj4XUmTEQ%3D%3D"
 			(at 62.23 48.26 0)
 			(effects
 				(font
@@ -9651,7 +9822,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm"
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 73.66 157.48 0)
 			(effects
 				(font
@@ -9787,7 +9958,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 40.64 174.2948 0)
 			(effects
 				(font
@@ -9807,6 +9978,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 36.83 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Murata-Electronics/GRM02YD80G104ME01L?qs=sGAEpiMZZMuMW9TJLBQkXhpPbABBnwlbXTX3Q8CTNwg%3D"
+			(at 36.83 175.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9922,7 +10102,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 50.8 40.64 0)
 			(effects
 				(font
@@ -9951,6 +10131,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 50.8 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/VCC/CMD11-21VYC-TR8?qs=N8%252Bk0S5zvCYHGaXDbAAYSQ%3D%3D"
+			(at 50.8 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10066,7 +10255,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 262.89 158.4452 0)
 			(effects
 				(font
@@ -10200,7 +10389,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 27.94 40.64 0)
 			(effects
 				(font
@@ -10229,6 +10418,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 27.94 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/VCC/CMD11-21VYC-TR8?qs=N8%252Bk0S5zvCYHGaXDbAAYSQ%3D%3D"
+			(at 27.94 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10279,7 +10477,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 111.252 48.26 90)
 			(effects
 				(font
@@ -10298,6 +10496,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 113.03 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Panasonic/ERA-8AEB131V?qs=Ojoo2rCVP9TrpPj4XUmTEQ%3D%3D"
 			(at 113.03 48.26 0)
 			(effects
 				(font
@@ -10414,7 +10621,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 130.81 40.64 0)
 			(effects
 				(font
@@ -10443,6 +10650,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 130.81 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/American-Bright-LED/BL-HKB33Q-AV-TRB?qs=Y0Uzf4wQF3l5aAeA8gsNCw%3D%3D"
+			(at 130.81 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10607,7 +10823,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 212.09 152.4 270)
+		(at 208.28 148.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -10615,7 +10831,7 @@
 		(dnp no)
 		(uuid "9532f829-6a3b-4d95-be26-3cf09fbe6282")
 		(property "Reference" "JP5"
-			(at 216.408 151.384 90)
+			(at 208.534 146.812 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10623,15 +10839,15 @@
 			)
 		)
 		(property "Value" "RESET"
-			(at 216.408 153.924 90)
+			(at 208.534 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 212.09 152.4 0)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+			(at 208.28 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10640,7 +10856,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 212.09 152.4 0)
+			(at 208.28 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10649,7 +10865,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 212.09 152.4 0)
+			(at 208.28 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10699,7 +10915,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 233.68 158.4452 0)
 			(effects
 				(font
@@ -10786,6 +11002,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 54.61 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Panasonic/ERA-8AHD270V?qs=MNPzkKEzRtQao2AraMolwQ%3D%3D"
+			(at 54.61 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10900,7 +11125,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 121.92 40.64 0)
 			(effects
 				(font
@@ -10929,6 +11154,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 121.92 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/American-Bright-LED/BL-HUB33Q-AV-TRB?qs=9qK3lZr%252Bi0LYGJCJ6hjvfA%3D%3D"
+			(at 121.92 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10997,6 +11231,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 135.89 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase place" "https://eu.mouser.com/ProductDetail/Panasonic/ERA-8AEB103V?qs=Ojoo2rCVP9QscDrGu5R0Gw%3D%3D"
+			(at 135.89 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11110,7 +11353,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm"
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 110.49 157.48 0)
 			(effects
 				(font
@@ -11182,7 +11425,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 204.47 157.1752 0)
 			(effects
 				(font
@@ -11202,6 +11445,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 208.28 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Murata-Electronics/GRM02YD80G104ME01L?qs=sGAEpiMZZMuMW9TJLBQkXhpPbABBnwlbXTX3Q8CTNwg%3D"
+			(at 208.28 156.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11252,7 +11504,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 102.362 48.26 90)
 			(effects
 				(font
@@ -11271,6 +11523,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 104.14 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Panasonic/ERA-8AEB131V?qs=Ojoo2rCVP9TrpPj4XUmTEQ%3D%3D"
 			(at 104.14 48.26 0)
 			(effects
 				(font
@@ -11386,7 +11647,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 177.8 39.0652 0)
 			(effects
 				(font
@@ -11406,6 +11667,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 181.61 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Murata-Electronics/GRM02YD80G104ME01L?qs=sGAEpiMZZMuMW9TJLBQkXhpPbABBnwlbXTX3Q8CTNwg%3D"
+			(at 181.61 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11651,7 +11921,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm"
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 129.54 157.48 0)
 			(effects
 				(font
@@ -11723,7 +11993,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 139.7 40.64 0)
 			(effects
 				(font
@@ -11752,6 +12022,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 139.7 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Kingbright/APL3015MGC?qs=moO%2F8p2KOt9NotKM%2FS7uIg%3D%3D"
+			(at 139.7 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11868,7 +12147,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 120.142 48.26 90)
 			(effects
 				(font
@@ -11887,6 +12166,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 121.92 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Panasonic/ERA-8AEB131V?qs=Ojoo2rCVP9TrpPj4XUmTEQ%3D%3D"
 			(at 121.92 48.26 0)
 			(effects
 				(font
@@ -12147,7 +12435,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 49.022 48.26 90)
 			(effects
 				(font
@@ -12166,6 +12454,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 50.8 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Panasonic/ERA-8AEB271V?qs=Ojoo2rCVP9QMqW%2FU5Qd6jQ%3D%3D"
 			(at 50.8 48.26 0)
 			(effects
 				(font
@@ -12216,7 +12513,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 270.51 148.8948 0)
 			(effects
 				(font
@@ -12286,7 +12583,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 71.882 48.26 90)
 			(effects
 				(font
@@ -12305,6 +12602,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 73.66 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Panasonic/ERA-8AEB131V?qs=Ojoo2rCVP9TrpPj4XUmTEQ%3D%3D"
 			(at 73.66 48.26 0)
 			(effects
 				(font
@@ -12356,7 +12662,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 92.202 48.26 90)
 			(effects
 				(font
@@ -12375,6 +12681,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 93.98 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Panasonic/ERA-8AEB131V?qs=Ojoo2rCVP9TrpPj4XUmTEQ%3D%3D"
 			(at 93.98 48.26 0)
 			(effects
 				(font
@@ -12819,7 +13134,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 144.78 91.1352 0)
 			(effects
 				(font
@@ -12839,6 +13154,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 148.59 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Murata-Electronics/GRM02YD80G104ME01L?qs=sGAEpiMZZMuMW9TJLBQkXhpPbABBnwlbXTX3Q8CTNwg%3D"
+			(at 148.59 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12906,6 +13230,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 62.23 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Panasonic/ERA-8ARB152V?qs=O13OCoPxAUUWFoS4GUkTIg%3D%3D"
+			(at 62.23 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13025,7 +13358,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 73.66 40.64 0)
 			(effects
 				(font
@@ -13054,6 +13387,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 73.66 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Kingbright/APL3015MGC?qs=moO%2F8p2KOt9NotKM%2FS7uIg%3D%3D"
+			(at 73.66 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13364,7 +13706,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 40.64 183.1848 0)
 			(effects
 				(font
@@ -13384,6 +13726,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 36.83 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Murata-Electronics/GRM02YD80G104ME01L?qs=sGAEpiMZZMuMW9TJLBQkXhpPbABBnwlbXTX3Q8CTNwg%3D"
+			(at 36.83 184.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
