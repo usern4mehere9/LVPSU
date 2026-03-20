@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FCSL110R005FER'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Ohmite", "FCSL110R005FER" (!) = "", "RESC50110X70N", "Resistor Chip", "588-FCSL110R005FER", "https://www.mouser.co.uk/ProductDetail/Ohmite/FCSL110R005FER?qs=MhoRK8A7%252BtWFd3RnyGifNg%3D%3D", "", "", "Ohmite 5m, 11050 Metal Foil SMD Resistor +/-1% 5W - FCSL110R005FER", "https://www.ohmite.com/assets/images/res-fcsl.pdf", "0.7 mm"
+END_PART
+
+END.

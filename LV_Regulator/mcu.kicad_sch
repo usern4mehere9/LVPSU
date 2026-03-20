@@ -4005,8 +4005,16 @@
 		(uuid "0b083e02-d43f-44de-8b17-825bbc782ecd")
 	)
 	(no_connect
+		(at 264.16 40.64)
+		(uuid "10a97e5c-9346-444e-afec-8a71f8654882")
+	)
+	(no_connect
 		(at 228.6 76.2)
 		(uuid "26f8366e-8599-43ad-a5c1-64b04671b8aa")
+	)
+	(no_connect
+		(at 264.16 38.1)
+		(uuid "5536e040-42c1-4a0b-bae4-9ea1f938560a")
 	)
 	(no_connect
 		(at 35.56 91.44)
@@ -5406,28 +5414,6 @@
 			)
 		)
 	)
-	(global_label "ADC1"
-		(shape input)
-		(at 264.16 38.1 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "8982d363-8249-4745-9a7f-8d1131cee2bf")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 271.9833 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "SWDIO"
 		(shape input)
 		(at 171.45 40.64 0)
@@ -5837,28 +5823,6 @@
 		(uuid "bce1d92c-9d8a-41d8-9acf-c854c6e3629d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 273.3742 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "ADC2"
-		(shape input)
-		(at 264.16 40.64 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c0c84ce2-46f5-416c-8e98-b1fd0fc31b07")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 271.9833 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10593,7 +10557,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical"
 			(at 166.37 40.64 0)
 			(effects
 				(font

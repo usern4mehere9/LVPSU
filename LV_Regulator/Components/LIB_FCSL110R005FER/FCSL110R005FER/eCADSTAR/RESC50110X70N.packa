@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "FCSL110R005FER"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-11-22-11:34:31)
+    (mountForm default
+        (footprintRef "RESC50110X70N")
+        (spec "System")
+    )
+)

@@ -2916,7 +2916,7 @@
 		(uuid "267fe4a8-23d8-47da-9f6a-3b5e96f255e2")
 	)
 	(junction
-		(at 43.18 99.06)
+		(at 41.91 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2b6c48d5-8dc6-46f8-a28c-f0446b530fa5")
@@ -3040,6 +3040,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fb9296a5-f491-45af-97e0-2a4a7a524879")
+	)
+	(junction
+		(at 52.07 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fcf1dd65-0ae4-4693-9953-6e5157a5cfdb")
 	)
 	(junction
 		(at 16.51 25.4)
@@ -3297,6 +3303,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 99.06) (xy 62.23 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43815a75-6f89-422a-8c9f-2aeda89552ba")
+	)
+	(wire
+		(pts
 			(xy 110.49 78.74) (xy 115.57 78.74)
 		)
 		(stroke
@@ -3377,7 +3393,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 99.06) (xy 43.18 99.06)
+			(xy 35.56 99.06) (xy 41.91 99.06)
 		)
 		(stroke
 			(width 0)
@@ -3757,7 +3773,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 99.06) (xy 62.23 99.06)
+			(xy 41.91 99.06) (xy 52.07 99.06)
 		)
 		(stroke
 			(width 0)
@@ -4969,7 +4985,7 @@
 	)
 	(symbol
 		(lib_id "power:VDC")
-		(at 41.91 99.06 90)
+		(at 35.56 99.06 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4977,7 +4993,7 @@
 		(dnp no)
 		(uuid "03b82e72-d0f4-483f-b5a6-62b3983258bb")
 		(property "Reference" "#PWR066"
-			(at 45.72 99.06 0)
+			(at 39.37 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4986,7 +5002,7 @@
 			)
 		)
 		(property "Value" "DCIN"
-			(at 41.91 96.012 90)
+			(at 35.56 96.012 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4995,7 +5011,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.91 99.06 0)
+			(at 35.56 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5004,7 +5020,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 99.06 0)
+			(at 35.56 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5013,7 +5029,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDC\""
-			(at 41.91 99.06 0)
+			(at 35.56 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5145,6 +5161,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 58.42 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/ROHM-Semiconductor/ESR18EZPJ222?qs=sGAEpiMZZMtlubZbdhIBIGrVcSH3vih40DnQNtoOj3I%3D"
+			(at 58.42 86.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5396,7 +5421,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "40uF"
+		(property "Value" "47uF"
 			(at 192.532 104.394 0)
 			(effects
 				(font
@@ -5405,7 +5430,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_10x10"
 			(at 184.4548 101.6 0)
 			(effects
 				(font
@@ -5424,6 +5449,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 185.42 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Vishay-BC-Components/MAL214097801E3?qs=sGAEpiMZZMvwFf0viD3Y3Yd5qvTVv7or1%252BPmBC40M1g%3D"
 			(at 185.42 105.41 0)
 			(effects
 				(font
@@ -5583,7 +5617,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 43.18 106.68 0)
+		(at 41.91 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5591,7 +5625,7 @@
 		(dnp no)
 		(uuid "2caf47d7-e30f-4e4f-b6d6-fd68152b5130")
 		(property "Reference" "#PWR078"
-			(at 43.18 113.03 0)
+			(at 41.91 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5600,7 +5634,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 36.83 111.76 0)
+			(at 35.56 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5608,7 +5642,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 43.18 106.68 0)
+			(at 41.91 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5617,7 +5651,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 43.18 106.68 0)
+			(at 41.91 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5626,7 +5660,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 43.18 106.68 0)
+			(at 41.91 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5641,6 +5675,84 @@
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
 					(reference "#PWR078")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 52.07 102.87 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2ffe0586-4a8f-4093-abd9-308d9f8eb079")
+		(property "Reference" "C36"
+			(at 45.466 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1uF"
+			(at 48.006 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 51.1048 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 52.07 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 52.07 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/KEMET/C1206C104K1RAC7867?qs=HwP6sGvP66Zs23oA%2FPYFtg%3D%3D"
+			(at 52.07 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4058e2c8-6a7c-4eb8-b0c9-697b3fa1b3a4")
+		)
+		(pin "2"
+			(uuid "a804b78a-92e7-4070-8a0a-18351b15586b")
+		)
+		(instances
+			(project "LV_Regulator"
+				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
+					(reference "C36")
 					(unit 1)
 				)
 			)
@@ -5864,7 +5976,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3ccaf4dd-ecc0-4a61-9f94-84a5051a7f04")
 		(property "Reference" "R12"
 			(at 232.41 102.87 90)
@@ -5882,7 +5993,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "FCSL110R005FER:RESC50110X70N"
 			(at 232.41 110.998 90)
 			(effects
 				(font
@@ -5902,6 +6013,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 232.41 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Ohmite/FCSL110R005FER?qs=MhoRK8A7%252BtWFd3RnyGifNg%3D%3D"
+			(at 232.41 109.22 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5942,7 +6062,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "160uF"
+		(property "Value" "180uF"
 			(at 264.16 114.3 0)
 			(effects
 				(font
@@ -5970,6 +6090,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 260.35 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buying Place" "https://eu.mouser.com/ProductDetail/Nichicon/UCZ1J181MNS1MS?qs=DPoM0jnrROWw1nmvs2XGyw%3D%3D"
 			(at 260.35 113.03 0)
 			(effects
 				(font
@@ -6127,7 +6256,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 43.18 102.87 180)
+		(at 41.91 102.87 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6135,7 +6264,7 @@
 		(dnp no)
 		(uuid "54d5a407-bd78-4a8d-93dc-a5b9e9cbcc4c")
 		(property "Reference" "C32"
-			(at 36.576 105.41 90)
+			(at 35.306 105.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6144,7 +6273,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 39.116 105.41 90)
+			(at 37.846 105.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6153,7 +6282,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
-			(at 42.2148 99.06 0)
+			(at 40.9448 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6162,7 +6291,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 43.18 102.87 0)
+			(at 41.91 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6171,7 +6300,16 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 43.18 102.87 0)
+			(at 41.91 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase place" "https://eu.mouser.com/ProductDetail/KEMET/C1206C104K1RAC7867?qs=HwP6sGvP66Zs23oA%2FPYFtg%3D%3D"
+			(at 41.91 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6874,6 +7012,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 52.07 106.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7241c179-2bd5-42a0-9679-43be3edffaf1")
+		(property "Reference" "#PWR035"
+			(at 52.07 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 45.72 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 52.07 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 52.07 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 52.07 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "103d96dc-9506-425d-99be-27db809d0c43")
+		)
+		(instances
+			(project "LV_Regulator"
+				(path "/9003ce10-3354-47c9-924a-fd038a206791/7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff"
+					(reference "#PWR035")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 101.6 35.56 90)
 		(unit 1)
@@ -7118,6 +7321,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 198.12 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://www.digikey.com/en/products/detail/kemet/C1206C104KMRECTU/8644205"
+			(at 198.12 127 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7587,6 +7799,15 @@
 				(hide yes)
 			)
 		)
+		(property "Purchase Place" "https://www.digikey.com/en/products/detail/kemet/C1206C104KMRECTU/8644205"
+			(at 148.59 127 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "651f86d8-7b20-4c71-b81b-6fe90a9e1332")
 		)
@@ -7851,7 +8072,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "https://eu.mouser.com/ProductDetail/TDK/CGA5L1C0G2A104J160AC?qs=sO%2FZ8XQFeM2ILBBjELX7LQ%3D%3D"
 			(at 224.79 113.03 0)
 			(effects
 				(font
@@ -8027,7 +8248,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "40uF"
+		(property "Value" "47uF"
 			(at 252.73 114.2999 0)
 			(effects
 				(font
@@ -8036,7 +8257,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_10x10"
 			(at 249.8852 116.84 0)
 			(effects
 				(font
@@ -8055,6 +8276,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 248.92 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Vishay-BC-Components/MAL214097801E3?qs=sGAEpiMZZMvwFf0viD3Y3Yd5qvTVv7or1%252BPmBC40M1g%3D"
 			(at 248.92 113.03 0)
 			(effects
 				(font
@@ -8264,6 +8494,15 @@
 				(hide yes)
 			)
 		)
+		(property "Purchase Place" "https://www.digikey.com/en/products/detail/kemet/C1206C104KMRECTU/8644205"
+			(at 228.6 116.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "897b07f4-085b-4071-b8b8-32c13b0924dd")
 		)
@@ -8458,7 +8697,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "https://eu.mouser.com/ProductDetail/TDK/CGA5L1C0G2A104J160AC?qs=sO%2FZ8XQFeM2ILBBjELX7LQ%3D%3D"
 			(at 240.03 113.03 0)
 			(effects
 				(font
@@ -8799,6 +9038,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 236.22 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Place of Purchase" "https://www.digikey.com/en/products/detail/kemet/C1206C104KMRECTU/8644205"
+			(at 236.22 116.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)

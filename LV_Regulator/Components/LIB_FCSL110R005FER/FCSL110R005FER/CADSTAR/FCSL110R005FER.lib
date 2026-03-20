@@ -1,0 +1,18 @@
+.FCSL110R005FER :1 ;Ohmite 5m, 11050 Metal Foil SMD Resistor +/-1% 5W - FCSL110R005FER
+RESC50110X70N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN FCSL110R005FER
+~!Manufacturer_Name (Ohmite)
+~!Manufacturer_Part_Number (FCSL110R005FER)
+~!Mouser Part Number (588-FCSL110R005FER)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Ohmite/FCSL110R005FER?qs=MhoRK8A7%252BtWFd3RnyGifNg%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.ohmite.com/assets/images/res-fcsl.pdf)
+~!Height (0.7mm)
+~!3D_Model (FCSL110R005FER)
+FCSL110R005FER
+1.1!U 2.1!U 

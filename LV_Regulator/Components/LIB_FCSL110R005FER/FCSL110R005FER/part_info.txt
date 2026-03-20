@@ -1,0 +1,9 @@
+Manufacturer=Ohmite
+PartNumber=FCSL110R005FER
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2024-11-22 11:34:31
+Downloaded=2026-03-18 10:06:21
+3D=Y

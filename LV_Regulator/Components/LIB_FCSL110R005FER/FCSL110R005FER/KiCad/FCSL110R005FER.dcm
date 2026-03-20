@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FCSL110R005FER
+D Ohmite 5m, 11050 Metal Foil SMD Resistor +/-1% 5W - FCSL110R005FER
+K
+F https://www.ohmite.com/assets/images/res-fcsl.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -13,6 +13,48 @@
 	)
 	(lib_symbols)
 	(sheet
+		(at 71.12 63.5)
+		(size 54.61 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2a3b4c6a-4fff-4003-b38d-0d614227feaf")
+		(property "Sheetname" "Test Points"
+			(at 71.12 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "test_points.kicad_sch"
+			(at 71.12 105.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LV_Regulator"
+				(path "/9003ce10-3354-47c9-924a-fd038a206791"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 15.24 110.49)
 		(size 54.61 41.91)
 		(exclude_from_sim no)

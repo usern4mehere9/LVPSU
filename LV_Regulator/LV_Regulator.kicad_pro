@@ -794,6 +794,10 @@
     [
       "7dfce8f1-0c22-480c-91d4-3ffb0e2b2dff",
       "Regulator"
+    ],
+    [
+      "2a3b4c6a-4fff-4003-b38d-0d614227feaf",
+      "Test Points"
     ]
   ],
   "text_variables": {}

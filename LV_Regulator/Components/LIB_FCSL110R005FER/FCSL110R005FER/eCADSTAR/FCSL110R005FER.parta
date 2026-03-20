@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_245127"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-11-22-11:34:31)
+    (utime 2024-11-22-11:34:31)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "FCSL110R005FER")
+)
+
+
+(pinAssign "ECS_245127"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-11-22-11:34:31)
+    (utime 2024-11-22-11:34:31)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_245127")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "FCSL110R005FER")
+)
+
+
+(part "FCSL110R005FER"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-11-22-11:34:31)
+    (utime 2024-11-22-11:34:31)
+    (packageRef "FCSL110R005FER")
+    (pinAssignRef "ECS_245127")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "Ohmite 5m, 11050 Metal Foil SMD Resistor +/-1% 5W - FCSL110R005FER")
+    (property "Manufacturer_Name" "Ohmite")
+    (property "Manufacturer_Part_Number" "FCSL110R005FER")
+    (property "Mouser_Part_Number" "588-FCSL110R005FER")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Ohmite/FCSL110R005FER?qs=MhoRK8A7%252BtWFd3RnyGifNg%3D%3D")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://www.ohmite.com/assets/images/res-fcsl.pdf")
+    (property "compAreaTopHeight" 0.7)
+)
+
+
