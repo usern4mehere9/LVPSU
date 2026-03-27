@@ -1818,7 +1818,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MIC29152WU"
+		(property "Footprint" "MIC29152WU:MIC29152WU"
 			(at 109.22 134.29 0)
 			(effects
 				(font
@@ -2018,7 +2018,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SS14:CR_SMA_403AE_OSI"
 			(at 50.8 101.6 0)
 			(effects
 				(font
@@ -2055,6 +2055,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 50.8 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://www.digikey.com/en/products/detail/onsemi/ss14/965474"
 			(at 50.8 101.6 0)
 			(effects
 				(font
@@ -3104,7 +3113,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 82.2452 95.25 0)
 			(effects
 				(font
@@ -3123,6 +3132,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 81.28 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/KYOCERA-AVX/12066G106ZAT4A?qs=f21FSZc47Pg9KHN6RDKhaQ%3D%3D"
 			(at 81.28 91.44 0)
 			(effects
 				(font
@@ -3371,7 +3389,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 60.96 103.378 90)
 			(effects
 				(font
@@ -3391,6 +3409,15 @@
 		)
 		(property "Description" "Fuse"
 			(at 60.96 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Bourns/SF-1206S100-2?qs=GIQXYiEeHGDIjBsMHQBJ8g%3D%3D"
+			(at 60.96 101.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3439,7 +3466,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 42.8752 46.99 0)
 			(effects
 				(font
@@ -3458,6 +3485,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 41.91 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/TAIYO-YUDEN/MLASJ319LB5476MTNA01?qs=tlsG%2FOw5FFj12GZbAd1Q9Q%3D%3D"
 			(at 41.91 50.8 0)
 			(effects
 				(font
@@ -3507,7 +3543,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MIC29152WU"
+		(property "Footprint" "MIC29152WU:MIC29152WU"
 			(at 111.76 188.9 0)
 			(effects
 				(font
@@ -3639,7 +3675,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SS14:CR_SMA_403AE_OSI"
 			(at 50.8 46.99 0)
 			(effects
 				(font
@@ -3676,6 +3712,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 50.8 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://www.digikey.com/en/products/detail/onsemi/ss14/965474"
 			(at 50.8 46.99 0)
 			(effects
 				(font
@@ -3927,7 +3972,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 70.8152 101.6 0)
 			(effects
 				(font
@@ -3946,6 +3991,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 69.85 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Murata-Electronics/GGM31CD70J226KE02L?qs=efUn273yAheMi1mARkgjog%3D%3D"
 			(at 69.85 105.41 0)
 			(effects
 				(font
@@ -4062,7 +4116,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 70.8152 46.99 0)
 			(effects
 				(font
@@ -4081,6 +4135,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 69.85 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Murata-Electronics/GGM31CD70J226KE02L?qs=efUn273yAheMi1mARkgjog%3D%3D"
 			(at 69.85 50.8 0)
 			(effects
 				(font
@@ -4129,7 +4192,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 79.7052 40.64 0)
 			(effects
 				(font
@@ -4148,6 +4211,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 78.74 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/KYOCERA-AVX/12066G106ZAT4A?qs=f21FSZc47Pg9KHN6RDKhaQ%3D%3D"
 			(at 78.74 36.83 0)
 			(effects
 				(font
@@ -4264,7 +4336,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SS14:CR_SMA_403AE_OSI"
 			(at 44.45 92.71 0)
 			(effects
 				(font
@@ -4302,6 +4374,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 44.45 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://www.digikey.com/en/products/detail/onsemi/ss14/965474"
+			(at 44.45 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4350,7 +4431,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 62.23 48.768 90)
 			(effects
 				(font
@@ -4370,6 +4451,15 @@
 		)
 		(property "Description" "Fuse"
 			(at 62.23 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Bourns/SF-1206S100-2?qs=GIQXYiEeHGDIjBsMHQBJ8g%3D%3D"
+			(at 62.23 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4418,7 +4508,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SS14:CR_SMA_403AE_OSI"
 			(at 44.45 39.37 0)
 			(effects
 				(font
@@ -4456,6 +4546,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 44.45 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://www.digikey.com/en/products/detail/onsemi/ss14/965474"
+			(at 44.45 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)

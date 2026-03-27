@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'V1FM10_M3_H'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "V1FM10-M3/H" (!) = "", "SODFL3718X108N", "Small Outline Diode Flat Lead", "78-V1FM10-M3/H", "https://www.mouser.co.uk/ProductDetail/Vishay-General-Semiconductor/V1FM10-M3-H?qs=F5EMLAvA7ICTFn%2Fm9xQ31w%3D%3D", "V1FM10-M3/H", "https://www.arrow.com/en/products/v1fm10-m3h/vishay?utm_currency=USD&region=nac", "Schottky Diodes & Rectifiers 100V 1A SMF(DO-219AB)", "https://componentsearchengine.com/Datasheets/1/V1FM10-M3_H.pdf", "1.08 mm"
+END_PART
+
+END.

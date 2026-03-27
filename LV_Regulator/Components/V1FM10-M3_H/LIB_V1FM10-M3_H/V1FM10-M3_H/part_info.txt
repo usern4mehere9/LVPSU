@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=V1FM10-M3/H
+PartCategory=Schottky Diode
+PackageCategory=Small Outline Diode Flat Lead
+PinCount=2
+Version=1.1
+Released=2020-12-23 11:02:38
+Downloaded=2026-03-24 09:56:06
+3D=Y

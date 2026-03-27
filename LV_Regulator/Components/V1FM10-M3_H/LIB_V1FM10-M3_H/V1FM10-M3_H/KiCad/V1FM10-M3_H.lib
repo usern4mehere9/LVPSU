@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model V1FM10-M3_H
+#/1457732/1991184/2.50/2/3/Schottky Diode
+DEF V1FM10-M3_H D 0 30 Y Y 1 F N
+F0 "D" 500 350 50 H V L CNN
+F1 "V1FM10-M3_H" 500 250 50 H V L CNN
+F2 "SODFL3718X108N" 500 150 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/V1FM10-M3_H.pdf" 500 50 50 H I L CNN
+F4 "Schottky Diodes & Rectifiers 100V 1A SMF(DO-219AB)" 500 -50 50 H I L CNN "Description"
+F5 "1.08" 500 -150 50 H I L CNN "Height"
+F6 "Vishay" 500 -250 50 H I L CNN "Manufacturer_Name"
+F7 "V1FM10-M3/H" 500 -350 50 H I L CNN "Manufacturer_Part_Number"
+F8 "78-V1FM10-M3/H" 500 -450 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Vishay-General-Semiconductor/V1FM10-M3-H?qs=F5EMLAvA7ICTFn%2Fm9xQ31w%3D%3D" 500 -550 50 H I L CNN "Mouser Price/Stock"
+F10 "V1FM10-M3/H" 500 -650 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/v1fm10-m3h/vishay?utm_currency=USD&region=nac" 500 -750 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 100 0 100 R 50 50 0 0 P
+X ~ 2 700 0 100 L 50 50 0 0 P
+P 2 0 1 6 300 100 300 -100 N
+P 3 0 1 6 300 100 340 100 340 60 N
+P 3 0 1 6 300 -100 260 -100 260 -60 N
+P 2 0 1 6 200 0 300 0 N
+P 2 0 1 6 500 0 600 0 N
+P 4 0 1 10 300 0 500 100 500 -100 300 0 F
+ENDDRAW
+ENDDEF
+#
+#End Library

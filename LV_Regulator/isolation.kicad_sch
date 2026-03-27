@@ -6089,7 +6089,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 99.3648 110.49 0)
 			(effects
 				(font
@@ -6108,6 +6108,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 100.33 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "http://eu.mouser.com/ProductDetail/KYOCERA-AVX/12066D104KAT4A?qs=sGAEpiMZZMsh%252B1woXyUXj0xLsiAJ%252BgLBdVdBYBTQiUU%3D"
 			(at 100.33 114.3 0)
 			(effects
 				(font
@@ -6156,7 +6165,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 174.2948 110.49 0)
 			(effects
 				(font
@@ -6175,6 +6184,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 175.26 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL31A106KQHNNWE?qs=X6jEic%2FHinDPxVHbcNEesg%3D%3D"
 			(at 175.26 114.3 0)
 			(effects
 				(font
@@ -6292,7 +6310,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "415290050010"
+		(property "Footprint" "LIB_41.52.9.005.0010:415290050010"
 			(at 135.382 175.26 0)
 			(effects
 				(font
@@ -6637,7 +6655,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 240.03 141.478 90)
 			(effects
 				(font
@@ -6657,6 +6675,15 @@
 		)
 		(property "Description" "Fuse"
 			(at 240.03 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/YAGEO/JB12S8001R?qs=iLKYxzqNS74e9XUtVrcPUA%3D%3D"
+			(at 240.03 139.7 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7413,7 +7440,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 130.81 76.5048 0)
 			(effects
 				(font
@@ -7433,6 +7460,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 127 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/KEMET/C1206Y104K9RACTU?qs=rUPLZ6nenJPIO9Oy%2FdArjw%3D%3D"
+			(at 127 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7480,7 +7516,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 109.5248 110.49 0)
 			(effects
 				(font
@@ -7499,6 +7535,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 110.49 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" "https://eu.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL31A106KQHNNWE?qs=X6jEic%2FHinDPxVHbcNEesg%3D%3D"
 			(at 110.49 114.3 0)
 			(effects
 				(font
@@ -7744,7 +7789,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 50.8 157.988 90)
 			(effects
 				(font
@@ -7764,6 +7809,15 @@
 		)
 		(property "Description" "Fuse"
 			(at 50.8 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/YAGEO/JB12F1002R?qs=iLKYxzqNS77quI8BrLxxaw%3D%3D"
+			(at 50.8 156.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7899,7 +7953,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 148.59 76.5048 0)
 			(effects
 				(font
@@ -7919,6 +7973,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 144.78 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/KEMET/C1206Y104K9RACTU?qs=rUPLZ6nenJPIO9Oy%2FdArjw%3D%3D"
+			(at 144.78 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8033,7 +8096,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 164.1348 110.49 0)
 			(effects
 				(font
@@ -8052,6 +8115,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 165.1 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "http://eu.mouser.com/ProductDetail/KYOCERA-AVX/12066D104KAT4A?qs=sGAEpiMZZMsh%252B1woXyUXj0xLsiAJ%252BgLBdVdBYBTQiUU%3D"
 			(at 165.1 114.3 0)
 			(effects
 				(font
@@ -8423,7 +8495,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P1030X265-16N"
+		(property "Footprint" "LIB_UCC12040DVE:SOIC127P1030X265-16N"
 			(at 121.92 28.27 0)
 			(effects
 				(font
@@ -8811,7 +8883,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 149.86 162.56 0)
 			(effects
 				(font
@@ -8849,6 +8921,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 149.86 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase Place" "https://www.mgelectronic.rs/dioda-1n4148-1206"
+			(at 149.86 162.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)

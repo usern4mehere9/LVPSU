@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "V1FM10-M3_H"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-12-23-11:02:38)
+    (mountForm default
+        (footprintRef "SODFL3718X108N")
+        (spec "System")
+    )
+)
