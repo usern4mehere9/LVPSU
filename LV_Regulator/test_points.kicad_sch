@@ -301,7 +301,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0e307a21-f481-4a54-92b6-1216d0069017")
-		(property "Reference" "TP23"
+		(property "Reference" "TP26"
 			(at 167.64 43.6879 0)
 			(effects
 				(font
@@ -352,7 +352,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP23")
+					(reference "TP26")
 					(unit 1)
 				)
 			)
@@ -368,7 +368,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1416d52a-ce8c-4f58-9acc-899576508707")
-		(property "Reference" "TP15"
+		(property "Reference" "TP12"
 			(at 203.2 15.7479 0)
 			(effects
 				(font
@@ -419,7 +419,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP15")
+					(reference "TP12")
 					(unit 1)
 				)
 			)
@@ -569,7 +569,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1d07308b-590b-4915-93b8-90acfa266ecc")
-		(property "Reference" "TP34"
+		(property "Reference" "TP37"
 			(at 85.09 70.3579 0)
 			(effects
 				(font
@@ -620,7 +620,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP34")
+					(reference "TP37")
 					(unit 1)
 				)
 			)
@@ -703,7 +703,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "25970840-81df-4054-ae79-28ebd23c7a42")
-		(property "Reference" "TP13"
+		(property "Reference" "TP11"
 			(at 186.69 15.7479 0)
 			(effects
 				(font
@@ -754,7 +754,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP13")
+					(reference "TP11")
 					(unit 1)
 				)
 			)
@@ -904,7 +904,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2a5c28d4-534e-4699-b9cb-24353ef57873")
-		(property "Reference" "TP39"
+		(property "Reference" "TP36"
 			(at 69.85 70.3579 0)
 			(effects
 				(font
@@ -955,7 +955,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP39")
+					(reference "TP36")
 					(unit 1)
 				)
 			)
@@ -971,7 +971,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2a72e9e6-31fe-41db-aa19-8ffa634b6f99")
-		(property "Reference" "TP29"
+		(property "Reference" "TP20"
 			(at 68.58 43.6879 0)
 			(effects
 				(font
@@ -1022,7 +1022,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP29")
+					(reference "TP20")
 					(unit 1)
 				)
 			)
@@ -1105,7 +1105,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2abd3c22-718d-40d7-a01c-43cc0f9cf778")
-		(property "Reference" "TP11"
+		(property "Reference" "TP10"
 			(at 170.18 15.7479 0)
 			(effects
 				(font
@@ -1156,7 +1156,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP11")
+					(reference "TP10")
 					(unit 1)
 				)
 			)
@@ -1172,7 +1172,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d933bc3-3705-4f40-844e-2534dd79c92b")
-		(property "Reference" "TP20"
+		(property "Reference" "TP29"
 			(at 215.9 43.6879 0)
 			(effects
 				(font
@@ -1223,7 +1223,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP20")
+					(reference "TP29")
 					(unit 1)
 				)
 			)
@@ -1239,7 +1239,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30a58a20-366b-4627-9872-a12a30ce0b36")
-		(property "Reference" "TP14"
+		(property "Reference" "TP15"
 			(at 252.73 15.7479 0)
 			(effects
 				(font
@@ -1290,7 +1290,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP14")
+					(reference "TP15")
 					(unit 1)
 				)
 			)
@@ -1373,7 +1373,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4fc0a5c9-b07b-43a5-b2be-21bb141f634c")
-		(property "Reference" "TP28"
+		(property "Reference" "TP31"
 			(at 248.92 43.6879 0)
 			(effects
 				(font
@@ -1424,7 +1424,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP28")
+					(reference "TP31")
 					(unit 1)
 				)
 			)
@@ -1507,7 +1507,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52f599f0-a851-4828-9f42-3995598cb37a")
-		(property "Reference" "TP10"
+		(property "Reference" "TP13"
 			(at 219.71 15.7479 0)
 			(effects
 				(font
@@ -1558,7 +1558,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP10")
+					(reference "TP13")
 					(unit 1)
 				)
 			)
@@ -1574,7 +1574,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "55050574-1cb5-4719-a322-8370d3521e0c")
-		(property "Reference" "TP25"
+		(property "Reference" "TP19"
 			(at 52.07 43.6879 0)
 			(effects
 				(font
@@ -1625,7 +1625,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP25")
+					(reference "TP19")
 					(unit 1)
 				)
 			)
@@ -1641,7 +1641,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c534fcd-fb8b-454b-bb9c-0fdbed579173")
-		(property "Reference" "TP12"
+		(property "Reference" "TP14"
 			(at 236.22 15.7479 0)
 			(effects
 				(font
@@ -1692,7 +1692,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP12")
+					(reference "TP14")
 					(unit 1)
 				)
 			)
@@ -1909,7 +1909,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a5fbbc9-9c37-4b28-97e7-c60e1d7c6ccf")
-		(property "Reference" "TP21"
+		(property "Reference" "TP18"
 			(at 35.56 43.6879 0)
 			(effects
 				(font
@@ -1960,7 +1960,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP21")
+					(reference "TP18")
 					(unit 1)
 				)
 			)
@@ -1976,7 +1976,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80054070-b74a-4376-a831-7208da097edf")
-		(property "Reference" "TP36"
+		(property "Reference" "TP38"
 			(at 101.6 70.3579 0)
 			(effects
 				(font
@@ -2027,7 +2027,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP36")
+					(reference "TP38")
 					(unit 1)
 				)
 			)
@@ -2043,7 +2043,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "85d8e6ed-e1b2-4369-a173-2a97cbe0fc61")
-		(property "Reference" "TP26"
+		(property "Reference" "TP23"
 			(at 118.11 43.6879 0)
 			(effects
 				(font
@@ -2094,7 +2094,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP26")
+					(reference "TP23")
 					(unit 1)
 				)
 			)
@@ -2244,7 +2244,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8c1ce466-966a-494c-a0ce-9cee1f1c0e1c")
-		(property "Reference" "TP19"
+		(property "Reference" "TP25"
 			(at 151.13 43.6879 0)
 			(effects
 				(font
@@ -2295,7 +2295,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP19")
+					(reference "TP25")
 					(unit 1)
 				)
 			)
@@ -2311,7 +2311,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "90738e9a-8f9e-4063-b797-1fbb017fd7dc")
-		(property "Reference" "TP38"
+		(property "Reference" "TP39"
 			(at 118.11 70.3579 0)
 			(effects
 				(font
@@ -2362,7 +2362,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP38")
+					(reference "TP39")
 					(unit 1)
 				)
 			)
@@ -2445,7 +2445,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9886f57d-e411-40cf-9e2e-137b8488c732")
-		(property "Reference" "TP35"
+		(property "Reference" "TP34"
 			(at 36.83 70.3579 0)
 			(effects
 				(font
@@ -2496,7 +2496,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP35")
+					(reference "TP34")
 					(unit 1)
 				)
 			)
@@ -2579,7 +2579,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9c3598a8-eefd-41f8-b5ea-d9bed59f792c")
-		(property "Reference" "TP31"
+		(property "Reference" "TP28"
 			(at 200.66 43.6879 0)
 			(effects
 				(font
@@ -2630,7 +2630,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP31")
+					(reference "TP28")
 					(unit 1)
 				)
 			)
@@ -2780,7 +2780,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a87f3730-058e-4363-8cd0-c910f6ac6276")
-		(property "Reference" "TP30"
+		(property "Reference" "TP24"
 			(at 134.62 43.6879 0)
 			(effects
 				(font
@@ -2831,7 +2831,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP30")
+					(reference "TP24")
 					(unit 1)
 				)
 			)
@@ -2847,7 +2847,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b975bb93-0b53-48b5-a79e-025d4106e85a")
-		(property "Reference" "TP18"
+		(property "Reference" "TP21"
 			(at 85.09 43.6879 0)
 			(effects
 				(font
@@ -2898,7 +2898,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP18")
+					(reference "TP21")
 					(unit 1)
 				)
 			)
@@ -2914,7 +2914,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "de697698-aa32-4847-aaa0-1d93cdeff800")
-		(property "Reference" "TP24"
+		(property "Reference" "TP30"
 			(at 232.41 43.6879 0)
 			(effects
 				(font
@@ -2965,7 +2965,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP24")
+					(reference "TP30")
 					(unit 1)
 				)
 			)
@@ -3048,7 +3048,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff2f0b1d-e775-4291-b1bd-ac613678a77e")
-		(property "Reference" "TP37"
+		(property "Reference" "TP35"
 			(at 53.34 70.3579 0)
 			(effects
 				(font
@@ -3099,7 +3099,7 @@
 		(instances
 			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/2a3b4c6a-4fff-4003-b38d-0d614227feaf"
-					(reference "TP37")
+					(reference "TP35")
 					(unit 1)
 				)
 			)
