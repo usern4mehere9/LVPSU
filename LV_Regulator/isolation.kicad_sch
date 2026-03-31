@@ -5379,6 +5379,50 @@
 			)
 		)
 	)
+	(global_label "RS485-B"
+		(shape input)
+		(at 45.72 58.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "25ff1465-e625-43c8-9954-37d3050a915d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 57.6556 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RS485-A"
+		(shape input)
+		(at 45.72 55.88 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3783d36d-ec8b-4e6c-8368-2570ed5a643f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 57.4742 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "RS485-DIR"
 		(shape input)
 		(at 165.1 53.34 0)
@@ -5533,28 +5577,6 @@
 			)
 		)
 	)
-	(global_label "RS485-A"
-		(shape input)
-		(at 45.72 58.42 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b2e64f82-81ca-4c04-b37c-fb9384ba3d99")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 57.4742 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "BAT-"
 		(shape input)
 		(at 45.72 170.18 0)
@@ -5577,31 +5599,9 @@
 			)
 		)
 	)
-	(global_label "RS485-B"
-		(shape input)
-		(at 45.72 55.88 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "cb36821a-e505-46c1-b9eb-16fb5106e215")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 57.6556 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "START-3v3"
 		(shape input)
-		(at 245.11 44.45 180)
+		(at 245.11 49.53 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5609,9 +5609,9 @@
 			)
 			(justify right)
 		)
-		(uuid "d0a0035a-ef81-4c35-a3b5-8753654e4335")
+		(uuid "d269c6e6-1b18-451f-8334-2055c7d1021c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 231.6625 44.45 0)
+			(at 231.6625 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7634,7 +7634,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 245.11 49.53 270)
+		(at 245.11 44.45 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7643,7 +7643,7 @@
 		(fields_autoplaced yes)
 		(uuid "98560b88-a7a2-46e3-a02b-e551b328dbc3")
 		(property "Reference" "#PWR06"
-			(at 238.76 49.53 0)
+			(at 238.76 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7652,7 +7652,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 241.3 49.5299 90)
+			(at 241.3 44.4499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7661,7 +7661,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 245.11 49.53 0)
+			(at 245.11 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7670,7 +7670,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 245.11 49.53 0)
+			(at 245.11 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7679,7 +7679,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 245.11 49.53 0)
+			(at 245.11 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7691,7 +7691,7 @@
 			(uuid "b4599204-5490-4ed9-a466-43d8c1952ca5")
 		)
 		(instances
-			(project ""
+			(project "LV_Regulator"
 				(path "/9003ce10-3354-47c9-924a-fd038a206791/91e40ea1-1eda-495a-bc23-83cea8129846"
 					(reference "#PWR06")
 					(unit 1)

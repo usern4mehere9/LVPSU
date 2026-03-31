@@ -5458,28 +5458,6 @@
 			)
 		)
 	)
-	(global_label "DIAG_RUN"
-		(shape input)
-		(at 121.92 36.83 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "8faad92a-4245-4c54-8075-f22b489ddfea")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 121.92 24.7128 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "HSC_IN"
 		(shape input)
 		(at 228.6 48.26 180)
@@ -5515,6 +5493,28 @@
 		(uuid "9464c81b-ac08-4909-8086-fb36a1e23546")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 68.8438 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DIAG_TX"
+		(shape input)
+		(at 130.81 36.83 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "97298132-77d7-40b1-afbc-31e5cccbca65")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 130.81 26.4667 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5590,9 +5590,9 @@
 			)
 		)
 	)
-	(global_label "DIAG_TX"
+	(global_label "DIAG_RX"
 		(shape input)
-		(at 130.81 36.83 90)
+		(at 121.92 36.83 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5600,9 +5600,9 @@
 			)
 			(justify left)
 		)
-		(uuid "a67a88b6-80fe-46dd-ab08-b23cafcf04e5")
+		(uuid "a8a1ddc7-900b-4e1c-a54b-81dcada47b40")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.81 26.4667 90)
+			(at 121.92 26.1643 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5647,28 +5647,6 @@
 		(uuid "b17d6d64-54da-422b-a5ce-2df3214570d7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 169.2947 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DIAG_RX"
-		(shape input)
-		(at 139.7 36.83 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b4ab1698-45c1-4529-8c15-a47e5f6eebeb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 139.7 26.1643 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5916,6 +5894,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DIAG_RUN"
+		(shape input)
+		(at 139.7 36.83 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ccad89f9-0d77-4e10-8db7-bf2383b582ad")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 139.7 24.7128 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
