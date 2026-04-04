@@ -699,7 +699,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TestPoint"
+		(property "Value" "V_OUT TP"
 			(at 52.07 18.2879 0)
 			(effects
 				(font
@@ -1637,7 +1637,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TestPoint"
+		(property "Value" "REGN TP"
 			(at 19.05 18.2879 0)
 			(effects
 				(font
