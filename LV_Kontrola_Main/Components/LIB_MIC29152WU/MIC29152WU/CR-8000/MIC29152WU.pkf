@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "MIC29152WU"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "MIC29152WU")
+        (spec "default")
+    )
+)

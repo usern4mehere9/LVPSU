@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MIC29152WU'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "MIC29152WU" (!) = "", "MIC29152WU", "Other", "998-MIC29152WU", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MIC29152WU?qs=kh6iOki%2FeLHeF19%2FNG7LNg%3D%3D", "MICREL SEMICONDUCTOR - MIC29152WU - IC, V REG, LDO 1.5A ADJ, SMD, 29152", "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.mouser.in/datasheet/2/268/MIC2915x_30x_50x_75x_High_Current_Low_Dropout_Regu-3103149.pdf", "5.08 mm"
+END_PART
+
+END.
