@@ -833,7 +833,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TestPoint"
+		(property "Value" "SYS TP"
 			(at 35.56 18.2879 0)
 			(effects
 				(font
