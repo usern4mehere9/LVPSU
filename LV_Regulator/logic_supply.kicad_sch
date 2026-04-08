@@ -1349,10 +1349,16 @@
 		(uuid "6b5ca740-3cf4-472b-8916-a31247e1f284")
 	)
 	(junction
-		(at 81.28 96.52)
+		(at 77.47 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "10d4b00b-ebe5-432c-8908-3f1482212ada")
+		(uuid "02dbc440-689b-409a-aca9-39e7849eff90")
+	)
+	(junction
+		(at 74.93 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "063cdf8c-064f-4f11-a191-c641d6ab8fbd")
 	)
 	(junction
 		(at 82.55 66.04)
@@ -1377,12 +1383,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6be97f34-7425-45f3-82e2-ce5c05b59ff5")
-	)
-	(junction
-		(at 78.74 41.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a481fd8a-3323-4907-8e7f-40cadf223b87")
 	)
 	(junction
 		(at 41.91 46.99)
@@ -1412,7 +1412,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 101.6) (xy 54.61 101.6)
+			(xy 54.61 101.6) (xy 69.85 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1422,7 +1422,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 41.91) (xy 78.74 41.91)
+			(xy 71.12 41.91) (xy 74.93 41.91)
 		)
 		(stroke
 			(width 0)
@@ -1432,7 +1432,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 95.25) (xy 81.28 96.52)
+			(xy 77.47 95.25) (xy 77.47 96.52)
 		)
 		(stroke
 			(width 0)
@@ -1449,16 +1449,6 @@
 			(type default)
 		)
 		(uuid "33dc1384-3cab-4c89-a581-c4db198d0a5c")
-	)
-	(wire
-		(pts
-			(xy 64.77 101.6) (xy 69.85 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "381951df-d178-4235-927a-188b7db0898c")
 	)
 	(wire
 		(pts
@@ -1489,26 +1479,6 @@
 			(type default)
 		)
 		(uuid "49d9e58c-dd91-4f22-bb92-fa476ceb7e1b")
-	)
-	(wire
-		(pts
-			(xy 78.74 41.91) (xy 82.55 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4e7ba804-8287-44f3-8287-dfb6a0a6a191")
-	)
-	(wire
-		(pts
-			(xy 66.04 46.99) (xy 69.85 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "57e71efc-80e5-4cab-bb5a-e70b73481d30")
 	)
 	(wire
 		(pts
@@ -1552,7 +1522,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 40.64) (xy 78.74 41.91)
+			(xy 74.93 40.64) (xy 74.93 41.91)
 		)
 		(stroke
 			(width 0)
@@ -1592,16 +1562,6 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 96.52) (xy 85.09 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a2522724-dd3a-41c4-8414-0950727ba494")
-	)
-	(wire
-		(pts
 			(xy 101.6 119.38) (xy 100.33 119.38)
 		)
 		(stroke
@@ -1632,7 +1592,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 96.52) (xy 81.28 96.52)
+			(xy 73.66 96.52) (xy 77.47 96.52)
 		)
 		(stroke
 			(width 0)
@@ -1652,7 +1612,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 46.99) (xy 54.61 46.99)
+			(xy 54.61 46.99) (xy 69.85 46.99)
 		)
 		(stroke
 			(width 0)
@@ -2232,7 +2192,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 81.28 87.63 180)
+		(at 77.47 87.63 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2241,7 +2201,7 @@
 		(fields_autoplaced yes)
 		(uuid "3512b59b-7293-4392-8771-4f3642d8f34d")
 		(property "Reference" "#PWR035"
-			(at 81.28 81.28 0)
+			(at 77.47 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2250,7 +2210,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 81.28 82.55 0)
+			(at 77.47 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2258,7 +2218,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 87.63 0)
+			(at 77.47 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2267,7 +2227,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 87.63 0)
+			(at 77.47 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2276,7 +2236,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 81.28 87.63 0)
+			(at 77.47 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2701,7 +2661,7 @@
 	)
 	(symbol
 		(lib_id "power:VD")
-		(at 74.93 41.91 90)
+		(at 71.12 41.91 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2709,7 +2669,7 @@
 		(dnp no)
 		(uuid "4c30aa4b-7a3b-4881-af5d-4a71cfbc2f27")
 		(property "Reference" "#PWR028"
-			(at 78.74 41.91 0)
+			(at 74.93 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2718,7 +2678,7 @@
 			)
 		)
 		(property "Value" "DCIN"
-			(at 71.12 41.9099 90)
+			(at 67.31 41.9099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2727,7 +2687,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 74.93 41.91 0)
+			(at 71.12 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2736,7 +2696,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 74.93 41.91 0)
+			(at 71.12 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2745,7 +2705,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VD\""
-			(at 74.93 41.91 0)
+			(at 71.12 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3099,7 +3059,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 81.28 91.44 0)
+		(at 77.47 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3107,7 +3067,7 @@
 		(dnp no)
 		(uuid "75814025-6e9f-4472-b6ad-444b8d412a54")
 		(property "Reference" "C10"
-			(at 76.454 90.17 0)
+			(at 72.644 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3115,7 +3075,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 76.454 92.71 0)
+			(at 72.644 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3123,7 +3083,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 82.2452 95.25 0)
+			(at 78.4352 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3132,7 +3092,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 81.28 91.44 0)
+			(at 77.47 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3141,7 +3101,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 81.28 91.44 0)
+			(at 77.47 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3150,7 +3110,7 @@
 			)
 		)
 		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/KYOCERA-AVX/12066G106ZAT4A?qs=f21FSZc47Pg9KHN6RDKhaQ%3D%3D"
-			(at 81.28 91.44 0)
+			(at 77.47 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3175,7 +3135,7 @@
 	)
 	(symbol
 		(lib_id "power:VD")
-		(at 77.47 96.52 90)
+		(at 73.66 96.52 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3183,7 +3143,7 @@
 		(dnp no)
 		(uuid "7ee50476-cf0a-47fd-a3a0-b01cbd7b14ff")
 		(property "Reference" "#PWR037"
-			(at 81.28 96.52 0)
+			(at 77.47 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3192,7 +3152,7 @@
 			)
 		)
 		(property "Value" "DCIN"
-			(at 73.66 96.5199 90)
+			(at 69.85 96.5199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3201,7 +3161,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 77.47 96.52 0)
+			(at 73.66 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3210,7 +3170,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 77.47 96.52 0)
+			(at 73.66 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3219,7 +3179,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VD\""
-			(at 77.47 96.52 0)
+			(at 73.66 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3308,7 +3268,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 78.74 33.02 180)
+		(at 74.93 33.02 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3317,7 +3277,7 @@
 		(fields_autoplaced yes)
 		(uuid "920b4826-8bdd-434d-bf17-819deb31db1b")
 		(property "Reference" "#PWR026"
-			(at 78.74 26.67 0)
+			(at 74.93 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3326,7 +3286,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 78.74 27.94 0)
+			(at 74.93 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3334,7 +3294,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 78.74 33.02 0)
+			(at 74.93 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3343,7 +3303,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 78.74 33.02 0)
+			(at 74.93 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3352,7 +3312,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 78.74 33.02 0)
+			(at 74.93 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3374,7 +3334,7 @@
 	)
 	(symbol
 		(lib_id "Device:Fuse")
-		(at 60.96 101.6 270)
+		(at 81.28 96.52 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3383,7 +3343,7 @@
 		(dnp no)
 		(uuid "9340e4d0-e1a5-4c7c-a42f-ce2844e9ea64")
 		(property "Reference" "F4"
-			(at 60.96 96.774 90)
+			(at 81.28 91.694 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3391,7 +3351,7 @@
 			)
 		)
 		(property "Value" "1A"
-			(at 60.96 99.314 90)
+			(at 81.28 94.234 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3399,7 +3359,7 @@
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
-			(at 60.96 103.378 90)
+			(at 81.28 98.298 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3408,7 +3368,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 60.96 101.6 0)
+			(at 81.28 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3417,7 +3377,7 @@
 			)
 		)
 		(property "Description" "Fuse"
-			(at 60.96 101.6 0)
+			(at 81.28 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3426,7 +3386,7 @@
 			)
 		)
 		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Bourns/SF-1206S100-2?qs=GIQXYiEeHGDIjBsMHQBJ8g%3D%3D"
-			(at 60.96 101.6 90)
+			(at 81.28 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4178,7 +4138,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 78.74 36.83 0)
+		(at 74.93 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4186,7 +4146,7 @@
 		(dnp no)
 		(uuid "c637725b-f653-40ef-9ad5-c06417983112")
 		(property "Reference" "C7"
-			(at 73.914 35.56 0)
+			(at 70.104 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4194,7 +4154,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 73.914 38.1 0)
+			(at 70.104 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4202,7 +4162,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 79.7052 40.64 0)
+			(at 75.8952 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4211,7 +4171,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 78.74 36.83 0)
+			(at 74.93 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4220,7 +4180,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 78.74 36.83 0)
+			(at 74.93 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4229,7 +4189,7 @@
 			)
 		)
 		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/KYOCERA-AVX/12066G106ZAT4A?qs=f21FSZc47Pg9KHN6RDKhaQ%3D%3D"
-			(at 78.74 36.83 0)
+			(at 74.93 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4416,7 +4376,7 @@
 	)
 	(symbol
 		(lib_id "Device:Fuse")
-		(at 62.23 46.99 270)
+		(at 78.74 41.91 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4425,7 +4385,7 @@
 		(dnp no)
 		(uuid "e3947ade-c626-4e18-af43-83d4227f9de3")
 		(property "Reference" "F3"
-			(at 62.23 42.164 90)
+			(at 78.74 37.084 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4433,7 +4393,7 @@
 			)
 		)
 		(property "Value" "1A"
-			(at 62.23 44.704 90)
+			(at 78.74 39.624 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4441,7 +4401,7 @@
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
-			(at 62.23 48.768 90)
+			(at 78.74 43.688 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4450,7 +4410,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 62.23 46.99 0)
+			(at 78.74 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4459,7 +4419,7 @@
 			)
 		)
 		(property "Description" "Fuse"
-			(at 62.23 46.99 0)
+			(at 78.74 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4468,7 +4428,7 @@
 			)
 		)
 		(property "Purchase Place" "https://eu.mouser.com/ProductDetail/Bourns/SF-1206S100-2?qs=GIQXYiEeHGDIjBsMHQBJ8g%3D%3D"
-			(at 62.23 46.99 90)
+			(at 78.74 41.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
