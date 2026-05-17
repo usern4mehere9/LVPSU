@@ -1,0 +1,271 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "0a10e0dd-5ecb-4c7c-a6cf-4e2fffbf9d9b")
+	(paper "A4")
+	(title_block
+		(title "LV_Kontrola_Start")
+		(rev "1.00A")
+		(company "\"Black Hornets\" Formula Student team")
+		(comment 1 "Authors: Dusan Novkovic; Nikola Popovic")
+		(comment 2 "Subteam: Low Voltage team")
+	)
+	(lib_symbols)
+	(sheet
+		(at 16.51 157.48)
+		(size 48.26 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "68259c3f-cbc7-4940-a909-90cd9b9add1a")
+		(property "Sheetname" "Start_Connectors"
+			(at 16.51 156.7684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Start_Con.kicad_sch"
+			(at 16.51 188.5446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LV_Kontrola_Start"
+				(path "/0a10e0dd-5ecb-4c7c-a6cf-4e2fffbf9d9b"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.51 15.24)
+		(size 48.26 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "9d391158-8c24-4cce-bc1d-dd17f3dcfeb8")
+		(property "Sheetname" "Start_5V_Isolation"
+			(at 16.51 14.5284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Start_5V_Isolation.kicad_sch"
+			(at 16.51 46.3046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 16.51 15.24 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "LV_Kontrola_Start"
+				(path "/0a10e0dd-5ecb-4c7c-a6cf-4e2fffbf9d9b"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.51 121.92)
+		(size 48.26 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "b2ae991c-385a-435d-9353-69b3bc9d9153")
+		(property "Sheetname" "Start_Power"
+			(at 16.51 121.2084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Start_Power.kicad_sch"
+			(at 16.51 152.9846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LV_Kontrola_Start"
+				(path "/0a10e0dd-5ecb-4c7c-a6cf-4e2fffbf9d9b"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.51 50.8)
+		(size 48.26 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c8633eef-3f89-4e8e-891c-6b078145a25c")
+		(property "Sheetname" "Start_3V3_Isolation"
+			(at 16.51 50.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Start_3V3_Isolation.kicad_sch"
+			(at 16.51 81.8646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 16.51 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "LV_Kontrola_Start"
+				(path "/0a10e0dd-5ecb-4c7c-a6cf-4e2fffbf9d9b"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.51 86.36)
+		(size 48.26 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "f1f85f06-52e9-4bd0-8288-96075d40072a")
+		(property "Sheetname" "Start_Control"
+			(at 16.51 85.6484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "start_control.kicad_sch"
+			(at 16.51 117.4246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LV_Kontrola_Start"
+				(path "/0a10e0dd-5ecb-4c7c-a6cf-4e2fffbf9d9b"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
