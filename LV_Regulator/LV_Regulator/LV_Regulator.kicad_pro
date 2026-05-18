@@ -62,158 +62,6 @@
       ],
       "drc_exclusions": [
         [
-          "clearance|139999999|82628763|054b56bb-8992-4678-abda-698cebe13554|907b52f7-89b6-45cf-b991-26cbcad6d0a1",
-          "This IC is too small"
-        ],
-        [
-          "clearance|139999999|83628764|7c3143e2-2410-401c-bbd7-c28c2dffd85d|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|139999999|84128763|838a4e09-10d0-4820-933f-c25ef174f417|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|139999999|84628764|fe65b3c5-61ba-4f9c-8e04-753bfbac3ca9|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|139999999|85128764|621ea4aa-dd98-4e44-bd86-b44da8acea86|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|139999999|85628765|7bb8fd05-7d6b-4f90-8acf-ac4bda9b4f7b|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|139999999|86128764|8a9423bb-0dde-4b78-87cc-b6bd3c760d87|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|139999999|86628763|85c2d536-430c-4cb9-ba0f-5f37865e3379|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|139999999|87128765|5cef007d-3f84-49d6-9cdd-cb0671cf3005|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|139999999|87371237|5cef007d-3f84-49d6-9cdd-cb0671cf3005|00680ab9-e53a-4475-81ca-a8408f8b6f83",
-          "This IC is too small"
-        ],
-        [
-          "clearance|140150000|87500000|00680ab9-e53a-4475-81ca-a8408f8b6f83|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|140371237|82500000|907b52f7-89b6-45cf-b991-26cbcad6d0a1|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|140628764|82500000|38c7babe-3b35-4ce6-96d9-1a0f893159a2|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|140628764|87500000|6e756ba6-ddb9-4dcc-a566-db328dbbeca8|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|141128763|82500000|359b1d3b-e32d-4b24-8e07-6aa4c410853f|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|141128763|87500000|c966d42b-460f-4f42-99e5-605168c6e1ea|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|141628764|82500000|55b1f6e3-5e2f-4c61-a40d-0211d8dadd34|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|141628764|87500000|ca8394d9-3fbb-43a4-9e7c-eb650d6d5f4b|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|142000000|85900000|38dbd33d-1b4e-4f5f-9fd4-75ed67e7c9fe|3f952505-fbe1-44bb-a5cb-ba7e4cc9f9db",
-          "This IC is too small"
-        ],
-        [
-          "clearance|142128764|82500000|7c0bc122-5364-4f07-b7d5-73d7b793c180|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|142128764|87500000|c2b7fded-de42-40f0-83d5-29edda294c2c|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|142628765|82500000|a89ce493-6b2a-476e-80f3-ef59272b2827|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|142628765|87500000|591b69b2-8e30-4317-9d07-6134ef854432|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|143128764|82500000|aa2218bf-5d00-47da-a6e1-8460337358ad|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|143128764|87500000|7b78501f-0f91-44f8-8307-15f1d599d23e|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|143628763|82500000|4f09bbd2-51df-4798-9059-f537f27308a8|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|143850000|87500000|c2e6b62d-dbb8-4487-85f9-c4b3f3c8a74f|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|143871235|82500000|4f09bbd2-51df-4798-9059-f537f27308a8|8b4e6f51-c1b8-4b7b-a695-db47fe79a4df",
-          "This IC is too small"
-        ],
-        [
-          "clearance|144000001|82650000|8b4e6f51-c1b8-4b7b-a695-db47fe79a4df|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|144000001|83128765|5c05b51c-a773-41d5-886b-e51b56e3b8e0|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|144000001|83628764|78ee3631-9b7c-4317-9b33-89cf17df12f0|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|144000001|84628764|ba78abc8-346d-4160-b7a3-03e16c925c38|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|144000001|85128764|72e4bddb-e912-4344-b4cb-a84a54981bc7|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|144000001|85628765|880a2b5c-2a23-402c-bdcf-d2874b1a457a|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|144000001|86128764|61385e50-7652-43f5-b559-af8f1eb54165|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|144000001|86628763|42d8fbd2-e0d6-4383-ad6e-4758bd2944bc|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|144000001|87128765|dd4e1c5f-060e-4afe-907b-9d58da48f2ba|7010f2a6-0e57-4a9b-be2b-166f34166033",
-          "This IC is too small"
-        ],
-        [
-          "clearance|144000001|87371237|dd4e1c5f-060e-4afe-907b-9d58da48f2ba|c2e6b62d-dbb8-4487-85f9-c4b3f3c8a74f",
-          "This IC is too small"
-        ],
-        [
           "lib_footprint_mismatch|121500000|102445016|21f56b70-c9d7-492e-ac68-96f079920143|00000000-0000-0000-0000-000000000000",
           "Caused by an update form KiCad V9 to V10, safe to ignore."
         ],
@@ -631,10 +479,6 @@
         ],
         [
           "lib_footprint_mismatch|227900000|108600000|f3c45b31-f47c-4df4-9844-f3476a757e1b|00000000-0000-0000-0000-000000000000",
-          "Caused by an update form KiCad V9 to V10, safe to ignore."
-        ],
-        [
-          "lib_footprint_mismatch|94100000|75100000|5720105a-f9fb-45b5-b523-9144f92bc790|00000000-0000-0000-0000-000000000000",
           "Caused by an update form KiCad V9 to V10, safe to ignore."
         ],
         [
@@ -1230,13 +1074,13 @@
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
-      "field_delimiter": ",",
+      "field_delimiter": "\t",
       "keep_line_breaks": false,
       "keep_tabs": false,
-      "name": "CSV",
+      "name": "TSV",
       "ref_delimiter": ",",
       "ref_range_delimiter": "",
-      "string_delimiter": "\""
+      "string_delimiter": ""
     },
     "bom_presets": [],
     "bom_settings": {
@@ -1364,15 +1208,9 @@
         },
         {
           "group_by": false,
-          "label": "PACKAGE",
-          "name": "PACKAGE",
-          "show": false
-        },
-        {
-          "group_by": false,
           "label": "Package",
           "name": "Package",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -1436,27 +1274,15 @@
         },
         {
           "group_by": false,
-          "label": "Purchase place",
-          "name": "Purchase place",
-          "show": false
-        },
-        {
-          "group_by": false,
           "label": "STANDARD",
           "name": "STANDARD",
           "show": false
         },
         {
           "group_by": false,
-          "label": "purchase place",
-          "name": "purchase place",
-          "show": false
-        },
-        {
-          "group_by": false,
           "label": "Place of Purchase",
           "name": "Place of Purchase",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -1468,7 +1294,7 @@
           "group_by": false,
           "label": "Purchase Place",
           "name": "Purchase Place",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -1486,7 +1312,7 @@
           "group_by": false,
           "label": "Buying Place",
           "name": "Buying Place",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
