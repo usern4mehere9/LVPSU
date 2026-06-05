@@ -1,0 +1,9 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "430451600") (type "KiCad") (uri "${KIPRJMOD}/Components/430451600") (options "") (descr ""))
+	(lib (name "KiCad1") (type "KiCad") (uri "${KIPRJMOD}/Components/LIB_MIC29152WU/MIC29152WU/KiCad") (options "") (descr ""))
+	(lib (name "KiCad") (type "KiCad") (uri "${KIPRJMOD}/Components/LIB_UCC12040DVE/UCC12040DVE/KiCad") (options "") (descr ""))
+	(lib (name "KiCADv61") (type "KiCad") (uri "${KIPRJMOD}/Components/microfit-4pin/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "KiCADv6") (type "KiCad") (uri "${KIPRJMOD}/Components/microfit-8pin/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "USB-C") (type "KiCad") (uri "${KIPRJMOD}/Components/USB-C") (options "") (descr ""))
+)

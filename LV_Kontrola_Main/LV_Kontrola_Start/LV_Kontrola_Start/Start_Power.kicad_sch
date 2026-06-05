@@ -4031,7 +4031,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MIC29152WU:MIC29152WU"
+		(property "Footprint" "KiCad1:MIC29152WU"
 			(at 138.43 183.82 0)
 			(hide yes)
 			(show_name no)
@@ -4185,7 +4185,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MIC29152WU:MIC29152WU"
+		(property "Footprint" "KiCad1:MIC29152WU"
 			(at 234.95 182.55 0)
 			(hide yes)
 			(show_name no)
